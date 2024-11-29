@@ -4,10 +4,12 @@ import fs from "fs";
 import puppeteer from "puppeteer";
 
 const url = "https://boardgamegeek.com/browse/boardgame";
-const getGamesList = async () => {
+const pages = 10;
+const gameInfoList = [];
+const getGamesList = async (pages) => {
   const gameList = [];
 
-  for (let i = 1; i <= 10; i++) {
+  for (let i = 1; i <= pages; i++) {
     const response = await fetch(url + `/page/${i}`);
     const html = await response.text();
 
@@ -66,21 +68,15 @@ const getGameInfo = async (gameUrl) => {
   };
 };
 
-const gameList = await getGamesList();
+const gameList = await getGamesList(pages);
 await fs.promises.writeFile("gameList.json", JSON.stringify(gameList, null, 2));
-const gameInfoList = [];
+
 console.log(gameList.length);
 for (let i = 0; i < gameList.length; i++) {
   console.log(i);
   const gameInfo = await getGameInfo(gameList[i].link);
   gameInfoList.push(gameInfo);
 }
-// gameList.forEach(async (game) => {
-//   console.log(game.link);
-//   const gameInfo = await getGameInfo(game.link);
-
-//   gameInfoList.push(gameInfo);
-// });
 
 await fs.promises.writeFile(
   "gameInfo.json",
