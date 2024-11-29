@@ -1,0 +1,9002 @@
+[
+  {
+    "title": "Brass: Birmingham",
+    "rating": "8.5881",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.87"
+  },
+  {
+    "title": "Pandemic Legacy: Season 1",
+    "rating": "8.52353",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.83"
+  },
+  {
+    "title": "Gloomhaven",
+    "rating": "8.57763",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.91"
+  },
+  {
+    "title": "Ark Nova",
+    "rating": "8.53234",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "150",
+    "weight": "3.77"
+  },
+  {
+    "title": "Twilight Imperium: Fourth Edition",
+    "rating": "8.5886",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "240",
+    "maxPplayTime": "480",
+    "weight": "4.33"
+  },
+  {
+    "title": "Dune: Imperium",
+    "rating": "8.43174",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.05"
+  },
+  {
+    "title": "Terraforming Mars",
+    "rating": "8.35343",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "5",
+    "weight": "3.27"
+  },
+  {
+    "title": "War of the Ring: Second Edition",
+    "rating": "8.54712",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "150",
+    "maxPplayTime": "180",
+    "weight": "4.22"
+  },
+  {
+    "title": "Star Wars: Rebellion",
+    "rating": "8.41904",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "240",
+    "weight": "3.74"
+  },
+  {
+    "title": "Gloomhaven: Jaws of the Lion",
+    "rating": "8.41731",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "3.64"
+  },
+  {
+    "title": "Spirit Island",
+    "rating": "8.34283",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "4.07"
+  },
+  {
+    "title": "Gaia Project",
+    "rating": "8.37037",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "4.40"
+  },
+  {
+    "title": "Twilight Struggle",
+    "rating": "8.24348",
+    "minPlayers": "2",
+    "maxPlayers": "180",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.61"
+  },
+  {
+    "title": "Through the Ages: A New Story of Civilization",
+    "rating": "8.2773",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "4.44"
+  },
+  {
+    "title": "The Castles of Burgundy",
+    "rating": "8.14341",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "90",
+    "weight": "2.98"
+  },
+  {
+    "title": "Great Western Trail",
+    "rating": "8.18223",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "75",
+    "maxPplayTime": "150",
+    "weight": "3.70"
+  },
+  {
+    "title": "Scythe",
+    "rating": "8.13232",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "115",
+    "weight": "3.45"
+  },
+  {
+    "title": "Eclipse: Second Dawn for the Galaxy",
+    "rating": "8.44412",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "200",
+    "weight": "3.65"
+  },
+  {
+    "title": "7 Wonders Duel",
+    "rating": "8.09318",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.22"
+  },
+  {
+    "title": "Brass: Lancashire",
+    "rating": "8.19708",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.85"
+  },
+  {
+    "title": "Nemesis",
+    "rating": "8.26152",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "3.47"
+  },
+  {
+    "title": "Clank! Legacy: Acquisitions Incorporated",
+    "rating": "8.52869",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "2.73"
+  },
+  {
+    "title": "A Feast for Odin",
+    "rating": "8.16852",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "3.86"
+  },
+  {
+    "title": "Concordia",
+    "rating": "8.08972",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "100",
+    "maxPplayTime": "5",
+    "weight": "2.99"
+  },
+  {
+    "title": "Dune: Imperium – Uprising",
+    "rating": "8.73372",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.45"
+  },
+  {
+    "title": "Frosthaven",
+    "rating": "8.81415",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "4.38"
+  },
+  {
+    "title": "Great Western Trail: Second Edition",
+    "rating": "8.31724",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "75",
+    "maxPplayTime": "150",
+    "weight": "3.72"
+  },
+  {
+    "title": "Arkham Horror: The Card Game",
+    "rating": "8.13038",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.55"
+  },
+  {
+    "title": "Lost Ruins of Arnak",
+    "rating": "8.07187",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "2.92"
+  },
+  {
+    "title": "Terra Mystica",
+    "rating": "8.05388",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "3.97"
+  },
+  {
+    "title": "Root",
+    "rating": "8.07568",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.81"
+  },
+  {
+    "title": "Wingspan",
+    "rating": "8.03484",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "40",
+    "maxPplayTime": "70",
+    "weight": "2.47"
+  },
+  {
+    "title": "Too Many Bones",
+    "rating": "8.3343",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.85"
+  },
+  {
+    "title": "Orléans",
+    "rating": "8.05827",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "3.03"
+  },
+  {
+    "title": "Mage Knight Board Game",
+    "rating": "8.08414",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "240",
+    "weight": "4.37"
+  },
+  {
+    "title": "Barrage",
+    "rating": "8.16204",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "4.11"
+  },
+  {
+    "title": "The Crew: Mission Deep Sea",
+    "rating": "8.12576",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "20",
+    "maxPplayTime": "5",
+    "weight": "2.03"
+  },
+  {
+    "title": "Everdell",
+    "rating": "8.01517",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "80",
+    "weight": "2.82"
+  },
+  {
+    "title": "Viticulture Essential Edition",
+    "rating": "7.98231",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.89"
+  },
+  {
+    "title": "Heat: Pedal to the Metal",
+    "rating": "8.04518",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.19"
+  },
+  {
+    "title": "Marvel Champions: The Card Game",
+    "rating": "8.11763",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.94"
+  },
+  {
+    "title": "Food Chain Magnate",
+    "rating": "8.05433",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "4.20"
+  },
+  {
+    "title": "Pax Pamir: Second Edition",
+    "rating": "8.17204",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "120",
+    "weight": "3.86"
+  },
+  {
+    "title": "Underwater Cities",
+    "rating": "8.05439",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "80",
+    "maxPplayTime": "150",
+    "weight": "3.58"
+  },
+  {
+    "title": "Kanban EV",
+    "rating": "8.41443",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "4.30"
+  },
+  {
+    "title": "Crokinole",
+    "rating": "8.04248",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "1.23"
+  },
+  {
+    "title": "Puerto Rico",
+    "rating": "7.91102",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "150",
+    "weight": "3.27"
+  },
+  {
+    "title": "Cascadia",
+    "rating": "7.93552",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.85"
+  },
+  {
+    "title": "Sky Team",
+    "rating": "8.19573",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "15",
+    "maxPplayTime": "",
+    "weight": "2.05"
+  },
+  {
+    "title": "Caverna: The Cave Farmers",
+    "rating": "7.94107",
+    "minPlayers": "1",
+    "maxPlayers": "7",
+    "minPplayTime": "30",
+    "maxPplayTime": "210",
+    "weight": "3.78"
+  },
+  {
+    "title": "Anachrony",
+    "rating": "8.06683",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "4.01"
+  },
+  {
+    "title": "On Mars",
+    "rating": "8.1816",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "150",
+    "weight": "4.67"
+  },
+  {
+    "title": "Pandemic Legacy: Season 0",
+    "rating": "8.38807",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "3.15"
+  },
+  {
+    "title": "Blood Rage",
+    "rating": "7.92063",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.88"
+  },
+  {
+    "title": "Agricola",
+    "rating": "7.87086",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "150",
+    "weight": "3.64"
+  },
+  {
+    "title": "Sleeping Gods",
+    "rating": "8.18158",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "1200",
+    "weight": "3.24"
+  },
+  {
+    "title": "Hegemony: Lead Your Class to Victory",
+    "rating": "8.45035",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "4.20"
+  },
+  {
+    "title": "Cthulhu: Death May Die",
+    "rating": "8.17841",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "2.48"
+  },
+  {
+    "title": "Oathsworn: Into the Deepwood",
+    "rating": "8.93783",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "90",
+    "weight": "3.66"
+  },
+  {
+    "title": "Lisboa",
+    "rating": "8.184",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "4.58"
+  },
+  {
+    "title": "Pandemic Legacy: Season 2",
+    "rating": "8.02899",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "3.26"
+  },
+  {
+    "title": "Mansions of Madness: Second Edition",
+    "rating": "7.93919",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "2.69"
+  },
+  {
+    "title": "Obsession",
+    "rating": "8.12484",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "90",
+    "weight": "3.09"
+  },
+  {
+    "title": "Grand Austria Hotel",
+    "rating": "7.95173",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.21"
+  },
+  {
+    "title": "Tzolk'in: The Mayan Calendar",
+    "rating": "7.85577",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.67"
+  },
+  {
+    "title": "Power Grid",
+    "rating": "7.80735",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "6",
+    "weight": "3.25"
+  },
+  {
+    "title": "Maracaibo",
+    "rating": "7.99968",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "3.92"
+  },
+  {
+    "title": "The Quacks of Quedlinburg",
+    "rating": "7.81732",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "1.94"
+  },
+  {
+    "title": "Clans of Caledonia",
+    "rating": "7.93992",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "3.46"
+  },
+  {
+    "title": "Le Havre",
+    "rating": "7.84603",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "150",
+    "weight": "3.71"
+  },
+  {
+    "title": "The Gallerist",
+    "rating": "8.02009",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "4.23"
+  },
+  {
+    "title": "Paladins of the West Kingdom",
+    "rating": "7.9733",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.72"
+  },
+  {
+    "title": "Star Wars: Imperial Assault",
+    "rating": "7.96149",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.30"
+  },
+  {
+    "title": "Android: Netrunner",
+    "rating": "7.88601",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "45",
+    "maxPplayTime": "",
+    "weight": "3.41"
+  },
+  {
+    "title": "Mechs vs. Minions",
+    "rating": "7.9656",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.45"
+  },
+  {
+    "title": "The Crew: The Quest for Planet Nine",
+    "rating": "7.79281",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "20",
+    "maxPplayTime": "5",
+    "weight": "1.95"
+  },
+  {
+    "title": "Kingdom Death: Monster",
+    "rating": "8.49271",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "4.27"
+  },
+  {
+    "title": "Agricola (Revised Edition)",
+    "rating": "7.9544",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "3.45"
+  },
+  {
+    "title": "Age of Innovation",
+    "rating": "8.62681",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "40",
+    "maxPplayTime": "200",
+    "weight": "4.25"
+  },
+  {
+    "title": "Azul",
+    "rating": "7.73914",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.77"
+  },
+  {
+    "title": "Race for the Galaxy",
+    "rating": "7.74343",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.99"
+  },
+  {
+    "title": "Five Tribes: The Djinns of Naqala",
+    "rating": "7.77397",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "80",
+    "weight": "2.84"
+  },
+  {
+    "title": "Clank!: A Deck-Building Adventure",
+    "rating": "7.77507",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.23"
+  },
+  {
+    "title": "Eclipse: New Dawn for the Galaxy",
+    "rating": "7.8286",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "3.70"
+  },
+  {
+    "title": "Fields of Arle",
+    "rating": "8.03023",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.84"
+  },
+  {
+    "title": "Aeon's End",
+    "rating": "7.88848",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.81"
+  },
+  {
+    "title": "Teotihuacan: City of Gods",
+    "rating": "7.85928",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.77"
+  },
+  {
+    "title": "Clank!: Catacombs",
+    "rating": "8.26956",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.50"
+  },
+  {
+    "title": "Lords of Waterdeep",
+    "rating": "7.73281",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.45"
+  },
+  {
+    "title": "Beyond the Sun",
+    "rating": "7.90629",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.13"
+  },
+  {
+    "title": "Through the Ages: A Story of Civilization",
+    "rating": "7.83786",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "4.18"
+  },
+  {
+    "title": "El Grande",
+    "rating": "7.75893",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.97"
+  },
+  {
+    "title": "Dominant Species",
+    "rating": "7.81204",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "4.04"
+  },
+  {
+    "title": "7 Wonders",
+    "rating": "7.67787",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "30",
+    "maxPplayTime": "7",
+    "weight": "2.32"
+  },
+  {
+    "title": "Concordia Venus",
+    "rating": "8.28541",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.02"
+  },
+  {
+    "title": "The Voyages of Marco Polo",
+    "rating": "7.77748",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "100",
+    "weight": "3.18"
+  },
+  {
+    "title": "Robinson Crusoe: Adventures on the Cursed Island",
+    "rating": "7.73885",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.82"
+  },
+  {
+    "title": "The Search for Planet X",
+    "rating": "7.93538",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "75",
+    "weight": "2.42"
+  },
+  {
+    "title": "Revive",
+    "rating": "8.13574",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.42"
+  },
+  {
+    "title": "Wingspan Asia",
+    "rating": "8.27517",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "40",
+    "maxPplayTime": "70",
+    "weight": "2.69"
+  },
+  {
+    "title": "SCOUT",
+    "rating": "7.82068",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "15",
+    "maxPplayTime": "5",
+    "weight": "1.36"
+  },
+  {
+    "title": "Darwin's Journey",
+    "rating": "8.15921",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.90"
+  },
+  {
+    "title": "Decrypto",
+    "rating": "7.7673",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "minPplayTime": "15",
+    "maxPplayTime": "45",
+    "weight": "1.82"
+  },
+  {
+    "title": "Tainted Grail: The Fall of Avalon",
+    "rating": "8.07932",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.35"
+  },
+  {
+    "title": "Inis",
+    "rating": "7.8251",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.95"
+  },
+  {
+    "title": "Battlestar Galactica: The Board Game",
+    "rating": "7.73063",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.25"
+  },
+  {
+    "title": "Trickerion: Legends of Illusion",
+    "rating": "7.97323",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "4.25"
+  },
+  {
+    "title": "Architects of the West Kingdom",
+    "rating": "7.72733",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "80",
+    "weight": "2.76"
+  },
+  {
+    "title": "Carnegie",
+    "rating": "8.00848",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.82"
+  },
+  {
+    "title": "Splendor Duel",
+    "rating": "7.91919",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "1.99"
+  },
+  {
+    "title": "Keyflower",
+    "rating": "7.7216",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.34"
+  },
+  {
+    "title": "Final Girl",
+    "rating": "8.26787",
+    "minPlayers": "1",
+    "maxPlayers": "60",
+    "minPplayTime": "20",
+    "maxPplayTime": "60",
+    "weight": "2.72"
+  },
+  {
+    "title": "Raiders of the North Sea",
+    "rating": "7.73324",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "80",
+    "weight": "2.56"
+  },
+  {
+    "title": "Tigris & Euphrates",
+    "rating": "7.70412",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.50"
+  },
+  {
+    "title": "Dominion: Intrigue",
+    "rating": "7.69012",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "2.41"
+  },
+  {
+    "title": "The White Castle",
+    "rating": "7.9808",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "80",
+    "maxPplayTime": "4",
+    "weight": "3.03"
+  },
+  {
+    "title": "Dwellings of Eldervale",
+    "rating": "8.14572",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "3.24"
+  },
+  {
+    "title": "Caylus",
+    "rating": "7.71389",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "3.79"
+  },
+  {
+    "title": "Lorenzo il Magnifico",
+    "rating": "7.84611",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.30"
+  },
+  {
+    "title": "Troyes",
+    "rating": "7.71397",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.46"
+  },
+  {
+    "title": "Eldritch Horror",
+    "rating": "7.74894",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "3.32"
+  },
+  {
+    "title": "The Quest for El Dorado",
+    "rating": "7.69505",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.94"
+  },
+  {
+    "title": "Mombasa",
+    "rating": "7.84891",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "75",
+    "maxPplayTime": "150",
+    "weight": "3.89"
+  },
+  {
+    "title": "The Lord of the Rings: Journeys in Middle-Earth",
+    "rating": "7.91213",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.67"
+  },
+  {
+    "title": "Twilight Imperium: Third Edition",
+    "rating": "7.79118",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "180",
+    "maxPplayTime": "240",
+    "weight": "4.26"
+  },
+  {
+    "title": "The 7th Continent",
+    "rating": "7.7898",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "5",
+    "maxPplayTime": "1000",
+    "weight": "2.90"
+  },
+  {
+    "title": "Ra",
+    "rating": "7.65208",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.32"
+  },
+  {
+    "title": "Patchwork",
+    "rating": "7.59201",
+    "minPlayers": "2",
+    "maxPlayers": "30",
+    "minPplayTime": "15",
+    "maxPplayTime": "30",
+    "weight": "1.60"
+  },
+  {
+    "title": "Trajan",
+    "rating": "7.75085",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.64"
+  },
+  {
+    "title": "Russian Railroads",
+    "rating": "7.73135",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.41"
+  },
+  {
+    "title": "Great Western Trail: New Zealand",
+    "rating": "8.56266",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "75",
+    "maxPplayTime": "150",
+    "weight": "3.96"
+  },
+  {
+    "title": "Age of Steam",
+    "rating": "7.85139",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "6",
+    "weight": "3.87"
+  },
+  {
+    "title": "Dominion",
+    "rating": "7.59799",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.35"
+  },
+  {
+    "title": "Nemesis: Lockdown",
+    "rating": "8.31348",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "3.90"
+  },
+  {
+    "title": "Rising Sun",
+    "rating": "7.76897",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.30"
+  },
+  {
+    "title": "Voidfall",
+    "rating": "8.57539",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "240",
+    "weight": "4.63"
+  },
+  {
+    "title": "Hansa Teutonica",
+    "rating": "7.7417",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "3.10"
+  },
+  {
+    "title": "Aeon's End: War Eternal",
+    "rating": "8.2501",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.93"
+  },
+  {
+    "title": "Vinhos: Deluxe Edition",
+    "rating": "8.08511",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "4.01"
+  },
+  {
+    "title": "Blood on the Clocktower",
+    "rating": "8.33011",
+    "minPlayers": "6",
+    "maxPlayers": "21",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "3.03"
+  },
+  {
+    "title": "Ticket to Ride Legacy: Legends of the West",
+    "rating": "8.70824",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "20",
+    "maxPplayTime": "90",
+    "weight": "2.56"
+  },
+  {
+    "title": "Clank! In! Space!: A Deck-Building Adventure",
+    "rating": "7.77994",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.58"
+  },
+  {
+    "title": "Iberia",
+    "rating": "7.883",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.59"
+  },
+  {
+    "title": "Forbidden Stars",
+    "rating": "7.97952",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.84"
+  },
+  {
+    "title": "Yokohama",
+    "rating": "7.80794",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.30"
+  },
+  {
+    "title": "Wonderland's War",
+    "rating": "8.07707",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "125",
+    "weight": "3.03"
+  },
+  {
+    "title": "Codenames",
+    "rating": "7.53682",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "15",
+    "maxPplayTime": "8",
+    "weight": "1.26"
+  },
+  {
+    "title": "Champions of Midgard",
+    "rating": "7.71717",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.62"
+  },
+  {
+    "title": "Just One",
+    "rating": "7.59942",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "minPplayTime": "20",
+    "maxPplayTime": "60",
+    "weight": "1.04"
+  },
+  {
+    "title": "Roll for the Galaxy",
+    "rating": "7.58538",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.78"
+  },
+  {
+    "title": "PARKS",
+    "rating": "7.65626",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.12"
+  },
+  {
+    "title": "The Isle of Cats",
+    "rating": "7.67613",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.36"
+  },
+  {
+    "title": "Pandemic",
+    "rating": "7.53122",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.40"
+  },
+  {
+    "title": "Rajas of the Ganges",
+    "rating": "7.7297",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "2.89"
+  },
+  {
+    "title": "Targi",
+    "rating": "7.60664",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "60",
+    "maxPplayTime": "",
+    "weight": "2.33"
+  },
+  {
+    "title": "Harmonies",
+    "rating": "8.02444",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.98"
+  },
+  {
+    "title": "Cartographers",
+    "rating": "7.58858",
+    "minPlayers": "1",
+    "maxPlayers": "100",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.88"
+  },
+  {
+    "title": "Hadrian's Wall",
+    "rating": "7.93027",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "3.16"
+  },
+  {
+    "title": "Res Arcana",
+    "rating": "7.63945",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.64"
+  },
+  {
+    "title": "Star Realms",
+    "rating": "7.55898",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "20",
+    "maxPplayTime": "",
+    "weight": "1.92"
+  },
+  {
+    "title": "Watergate",
+    "rating": "7.76039",
+    "minPlayers": "2",
+    "maxPlayers": "60",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.27"
+  },
+  {
+    "title": "Alchemists",
+    "rating": "7.64227",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.92"
+  },
+  {
+    "title": "Tyrants of the Underdark",
+    "rating": "7.91062",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.56"
+  },
+  {
+    "title": "It's a Wonderful World",
+    "rating": "7.66145",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.32"
+  },
+  {
+    "title": "Undaunted: Normandy",
+    "rating": "7.79389",
+    "minPlayers": "2",
+    "maxPlayers": "60",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.25"
+  },
+  {
+    "title": "Praga Caput Regni",
+    "rating": "7.88533",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "150",
+    "weight": "3.73"
+  },
+  {
+    "title": "Ticket to Ride: Europe",
+    "rating": "7.5278",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.92"
+  },
+  {
+    "title": "Magic: The Gathering",
+    "rating": "7.57972",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "20",
+    "maxPplayTime": "",
+    "weight": "3.27"
+  },
+  {
+    "title": "Kemet",
+    "rating": "7.64392",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.00"
+  },
+  {
+    "title": "Too Many Bones: Undertow",
+    "rating": "8.68374",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "4.04"
+  },
+  {
+    "title": "ISS Vanguard",
+    "rating": "8.54681",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.66"
+  },
+  {
+    "title": "Stone Age",
+    "rating": "7.52156",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.46"
+  },
+  {
+    "title": "The Lord of the Rings: The Card Game",
+    "rating": "7.66218",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "3.21"
+  },
+  {
+    "title": "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",
+    "rating": "7.62567",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.66"
+  },
+  {
+    "title": "Endeavor: Age of Sail",
+    "rating": "7.87892",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.84"
+  },
+  {
+    "title": "Viscounts of the West Kingdom",
+    "rating": "7.83405",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.46"
+  },
+  {
+    "title": "Terraforming Mars: Ares Expedition",
+    "rating": "7.66208",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.92"
+  },
+  {
+    "title": "Legendary Encounters: An Alien Deck Building Game",
+    "rating": "7.75555",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.70"
+  },
+  {
+    "title": "War Chest",
+    "rating": "7.84015",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.31"
+  },
+  {
+    "title": "Istanbul",
+    "rating": "7.54126",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.58"
+  },
+  {
+    "title": "Glen More II: Chronicles",
+    "rating": "7.8907",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.01"
+  },
+  {
+    "title": "Slay the Spire: The Board Game",
+    "rating": "8.77379",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "150",
+    "weight": "2.92"
+  },
+  {
+    "title": "Marco Polo II: In the Service of the Khan",
+    "rating": "7.95093",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.37"
+  },
+  {
+    "title": "Star Wars: X-Wing Miniatures Game",
+    "rating": "7.63232",
+    "minPlayers": "2",
+    "maxPlayers": "45",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.50"
+  },
+  {
+    "title": "Dominion (Second Edition)",
+    "rating": "7.83132",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.16"
+  },
+  {
+    "title": "Unmatched: Cobble & Fog",
+    "rating": "7.96746",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "1.97"
+  },
+  {
+    "title": "Radlands",
+    "rating": "7.81721",
+    "minPlayers": "2",
+    "maxPlayers": "40",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "2.26"
+  },
+  {
+    "title": "That's Pretty Clever!",
+    "rating": "7.5668",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "1.87"
+  },
+  {
+    "title": "Xia: Legends of a Drift System",
+    "rating": "7.85845",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "3.17"
+  },
+  {
+    "title": "Welcome To...",
+    "rating": "7.52651",
+    "minPlayers": "1",
+    "maxPlayers": "100",
+    "minPplayTime": "25",
+    "maxPplayTime": "100",
+    "weight": "1.84"
+  },
+  {
+    "title": "Jaipur",
+    "rating": "7.48747",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "1.46"
+  },
+  {
+    "title": "Wyrmspan",
+    "rating": "8.05604",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "2.79"
+  },
+  {
+    "title": "Nucleum",
+    "rating": "8.17447",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "4.15"
+  },
+  {
+    "title": "Arcs",
+    "rating": "8.24546",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.38"
+  },
+  {
+    "title": "Planet Unknown",
+    "rating": "7.80275",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "80",
+    "weight": "2.22"
+  },
+  {
+    "title": "Earth",
+    "rating": "7.67058",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.88"
+  },
+  {
+    "title": "War of the Ring",
+    "rating": "7.77924",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.85"
+  },
+  {
+    "title": "Chaos in the Old World",
+    "rating": "7.65967",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.20"
+  },
+  {
+    "title": "Dune",
+    "rating": "7.93524",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "4.00"
+  },
+  {
+    "title": "Welcome to the Moon",
+    "rating": "7.94877",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "25",
+    "maxPplayTime": "30",
+    "weight": "2.48"
+  },
+  {
+    "title": "This War of Mine: The Board Game",
+    "rating": "7.76795",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "120",
+    "weight": "3.32"
+  },
+  {
+    "title": "Star Wars: Outer Rim",
+    "rating": "7.73479",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "2.57"
+  },
+  {
+    "title": "Memoir '44",
+    "rating": "7.53242",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.27"
+  },
+  {
+    "title": "Descent: Journeys in the Dark (Second Edition)",
+    "rating": "7.61142",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "5",
+    "weight": "3.21"
+  },
+  {
+    "title": "The Red Cathedral",
+    "rating": "7.69424",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "80",
+    "maxPplayTime": "4",
+    "weight": "2.82"
+  },
+  {
+    "title": "Sekigahara: The Unification of Japan",
+    "rating": "8.00729",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "180",
+    "maxPplayTime": "",
+    "weight": "2.80"
+  },
+  {
+    "title": "Cosmic Encounter",
+    "rating": "7.5199",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.58"
+  },
+  {
+    "title": "Meadow",
+    "rating": "7.73169",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.25"
+  },
+  {
+    "title": "Castles of Mad King Ludwig",
+    "rating": "7.51482",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.65"
+  },
+  {
+    "title": "Sagrada",
+    "rating": "7.47416",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.92"
+  },
+  {
+    "title": "Horrified",
+    "rating": "7.6313",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.02"
+  },
+  {
+    "title": "Great Western Trail: Argentina",
+    "rating": "8.3112",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "75",
+    "maxPplayTime": "150",
+    "weight": "3.89"
+  },
+  {
+    "title": "Space Base",
+    "rating": "7.54781",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.12"
+  },
+  {
+    "title": "Railways of the World",
+    "rating": "7.6689",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "6",
+    "weight": "3.02"
+  },
+  {
+    "title": "Azul: Summer Pavilion",
+    "rating": "7.60095",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.06"
+  },
+  {
+    "title": "The Resistance: Avalon",
+    "rating": "7.50867",
+    "minPlayers": "5",
+    "maxPlayers": "10",
+    "minPplayTime": "30",
+    "maxPplayTime": "10",
+    "weight": "1.74"
+  },
+  {
+    "title": "The Lord of the Rings: Duel for Middle-earth",
+    "rating": "8.47816",
+    "minPlayers": "2",
+    "maxPlayers": "45",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.04"
+  },
+  {
+    "title": "Modern Art",
+    "rating": "7.50825",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.29"
+  },
+  {
+    "title": "Ticket to Ride: Nordic Countries",
+    "rating": "7.62609",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.97"
+  },
+  {
+    "title": "Ora et Labora",
+    "rating": "7.68499",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "3.89"
+  },
+  {
+    "title": "A Game of Thrones: The Board Game (Second Edition)",
+    "rating": "7.53428",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "3.73"
+  },
+  {
+    "title": "Paleo",
+    "rating": "7.6848",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.64"
+  },
+  {
+    "title": "Go",
+    "rating": "7.65467",
+    "minPlayers": "2",
+    "maxPlayers": "180",
+    "minPplayTime": "30",
+    "maxPplayTime": "180",
+    "weight": "3.93"
+  },
+  {
+    "title": "Commands & Colors: Ancients",
+    "rating": "7.77994",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "60",
+    "maxPplayTime": "",
+    "weight": "2.69"
+  },
+  {
+    "title": "7 Wonders (Second Edition)",
+    "rating": "7.84584",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "minPplayTime": "30",
+    "maxPplayTime": "7",
+    "weight": "2.31"
+  },
+  {
+    "title": "Captain Sonar",
+    "rating": "7.51325",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.20"
+  },
+  {
+    "title": "Suburbia",
+    "rating": "7.47063",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.76"
+  },
+  {
+    "title": "Village",
+    "rating": "7.49051",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.06"
+  },
+  {
+    "title": "Dead of Winter: A Crossroads Game",
+    "rating": "7.45844",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.01"
+  },
+  {
+    "title": "Ankh: Gods of Egypt",
+    "rating": "7.78421",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "3.12"
+  },
+  {
+    "title": "Carcassonne",
+    "rating": "7.41041",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.89"
+  },
+  {
+    "title": "Splendor",
+    "rating": "7.41866",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "1.78"
+  },
+  {
+    "title": "Star Wars: The Deckbuilding Game",
+    "rating": "7.879",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.03"
+  },
+  {
+    "title": "Nidavellir",
+    "rating": "7.58575",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.11"
+  },
+  {
+    "title": "Tichu",
+    "rating": "7.5748",
+    "minPlayers": "4",
+    "maxPlayers": "",
+    "minPplayTime": "60",
+    "maxPplayTime": "",
+    "weight": "2.34"
+  },
+  {
+    "title": "Clash of Cultures: Monumental Edition",
+    "rating": "8.31869",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "240",
+    "weight": "3.70"
+  },
+  {
+    "title": "Aeon's End: Legacy",
+    "rating": "8.06136",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.83"
+  },
+  {
+    "title": "Star Realms: Colony Wars",
+    "rating": "7.79725",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "20",
+    "maxPplayTime": "",
+    "weight": "1.90"
+  },
+  {
+    "title": "Return to Dark Tower",
+    "rating": "8.26039",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "100",
+    "maxPplayTime": "120",
+    "weight": "2.65"
+  },
+  {
+    "title": "Paths of Glory",
+    "rating": "8.06797",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "480",
+    "maxPplayTime": "",
+    "weight": "3.85"
+  },
+  {
+    "title": "YINSH",
+    "rating": "7.71013",
+    "minPlayers": "2",
+    "maxPlayers": "60",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.64"
+  },
+  {
+    "title": "Under Falling Skies",
+    "rating": "7.64184",
+    "minPlayers": "1",
+    "maxPlayers": "40",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "2.40"
+  },
+  {
+    "title": "Coimbra",
+    "rating": "7.61139",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.26"
+  },
+  {
+    "title": "Nations",
+    "rating": "7.60173",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "40",
+    "maxPplayTime": "200",
+    "weight": "3.54"
+  },
+  {
+    "title": "Near and Far",
+    "rating": "7.67291",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "2.89"
+  },
+  {
+    "title": "The Taverns of Tiefenthal",
+    "rating": "7.57537",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.69"
+  },
+  {
+    "title": "Ticket to Ride",
+    "rating": "7.39096",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.83"
+  },
+  {
+    "title": "My City",
+    "rating": "7.62469",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "1.97"
+  },
+  {
+    "title": "Combat Commander: Europe",
+    "rating": "7.95312",
+    "minPlayers": "2",
+    "maxPlayers": "180",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "3.25"
+  },
+  {
+    "title": "Calico",
+    "rating": "7.51832",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.19"
+  },
+  {
+    "title": "Cyclades",
+    "rating": "7.50504",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.82"
+  },
+  {
+    "title": "Dinosaur Island",
+    "rating": "7.55744",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.04"
+  },
+  {
+    "title": "Arkham Horror: The Card Game (Revised Edition)",
+    "rating": "8.63655",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "180",
+    "weight": "3.75"
+  },
+  {
+    "title": "Secret Hitler",
+    "rating": "7.50348",
+    "minPlayers": "5",
+    "maxPlayers": "10",
+    "minPplayTime": "45",
+    "maxPplayTime": "10",
+    "weight": "1.74"
+  },
+  {
+    "title": "KLASK",
+    "rating": "7.63367",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "10",
+    "maxPplayTime": "",
+    "weight": "1.05"
+  },
+  {
+    "title": "La Granja",
+    "rating": "7.60375",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.57"
+  },
+  {
+    "title": "Codenames: Duet",
+    "rating": "7.42886",
+    "minPlayers": "2",
+    "maxPlayers": "30",
+    "minPplayTime": "15",
+    "maxPplayTime": "30",
+    "weight": "1.36"
+  },
+  {
+    "title": "Fantasy Realms",
+    "rating": "7.5166",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "20",
+    "maxPplayTime": "7",
+    "weight": "1.82"
+  },
+  {
+    "title": "Legendary: A Marvel Deck Building Game",
+    "rating": "7.53037",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.43"
+  },
+  {
+    "title": "John Company: Second Edition",
+    "rating": "8.28949",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "90",
+    "maxPplayTime": "240",
+    "weight": "4.44"
+  },
+  {
+    "title": "Century: Golem Edition",
+    "rating": "7.59103",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.69"
+  },
+  {
+    "title": "Camel Up (Second Edition)",
+    "rating": "7.57029",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.51"
+  },
+  {
+    "title": "Hanamikoji",
+    "rating": "7.47347",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "15",
+    "maxPplayTime": "",
+    "weight": "1.68"
+  },
+  {
+    "title": "Unmatched: Battle of Legends, Volume One",
+    "rating": "7.72551",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "1.92"
+  },
+  {
+    "title": "Deception: Murder in Hong Kong",
+    "rating": "7.43994",
+    "minPlayers": "4",
+    "maxPlayers": "12",
+    "minPplayTime": "20",
+    "maxPplayTime": "12",
+    "weight": "1.58"
+  },
+  {
+    "title": "Zombicide: Black Plague",
+    "rating": "7.61124",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "2.48"
+  },
+  {
+    "title": "Sushi Go Party!",
+    "rating": "7.38918",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "20",
+    "maxPplayTime": "8",
+    "weight": "1.31"
+  },
+  {
+    "title": "MicroMacro: Crime City",
+    "rating": "7.48536",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "15",
+    "maxPplayTime": "45",
+    "weight": "1.10"
+  },
+  {
+    "title": "Flamme Rouge",
+    "rating": "7.48843",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.69"
+  },
+  {
+    "title": "Roll Player",
+    "rating": "7.43978",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.44"
+  },
+  {
+    "title": "The Princes of Florence",
+    "rating": "7.50363",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "75",
+    "maxPplayTime": "100",
+    "weight": "3.24"
+  },
+  {
+    "title": "Isle of Skye: From Chieftain to King",
+    "rating": "7.39608",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "50",
+    "weight": "2.26"
+  },
+  {
+    "title": "Hallertau",
+    "rating": "7.86362",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "50",
+    "maxPplayTime": "140",
+    "weight": "3.30"
+  },
+  {
+    "title": "Vindication",
+    "rating": "7.78839",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "150",
+    "weight": "3.09"
+  },
+  {
+    "title": "Samurai",
+    "rating": "7.47258",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.45"
+  },
+  {
+    "title": "Glory to Rome",
+    "rating": "7.49052",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.93"
+  },
+  {
+    "title": "Forest Shuffle",
+    "rating": "7.66241",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.17"
+  },
+  {
+    "title": "Kanban: Driver's Edition",
+    "rating": "7.7844",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "4.36"
+  },
+  {
+    "title": "Santorini",
+    "rating": "7.35596",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "1.72"
+  },
+  {
+    "title": "Pulsar 2849",
+    "rating": "7.65621",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.35"
+  },
+  {
+    "title": "Hero Realms",
+    "rating": "7.51102",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "1.85"
+  },
+  {
+    "title": "Western Legends",
+    "rating": "7.60737",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.84"
+  },
+  {
+    "title": "Goa: A New Expedition",
+    "rating": "7.55742",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.37"
+  },
+  {
+    "title": "Tapestry",
+    "rating": "7.44372",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "2.95"
+  },
+  {
+    "title": "1830: Railways & Robber Barons",
+    "rating": "7.87022",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "180",
+    "maxPplayTime": "360",
+    "weight": "4.16"
+  },
+  {
+    "title": "Shogun",
+    "rating": "7.51263",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.36"
+  },
+  {
+    "title": "Galaxy Trucker",
+    "rating": "7.33983",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.33"
+  },
+  {
+    "title": "Detective: A Modern Crime Board Game",
+    "rating": "7.64502",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "2.74"
+  },
+  {
+    "title": "Anno 1800: The Board Game",
+    "rating": "7.71915",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.12"
+  },
+  {
+    "title": "Endless Winter: Paleoamericans",
+    "rating": "7.70482",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.31"
+  },
+  {
+    "title": "1960: The Making of the President",
+    "rating": "7.62204",
+    "minPlayers": "2",
+    "maxPlayers": "120",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.20"
+  },
+  {
+    "title": "Viticulture",
+    "rating": "7.48638",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "90",
+    "maxPplayTime": "6",
+    "weight": "2.94"
+  },
+  {
+    "title": "Chronicles of Crime",
+    "rating": "7.57375",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.06"
+  },
+  {
+    "title": "Lewis & Clark: The Expedition",
+    "rating": "7.44413",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "5",
+    "weight": "3.32"
+  },
+  {
+    "title": "Mind MGMT: The Psychic Espionage “Game.”",
+    "rating": "7.90217",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.92"
+  },
+  {
+    "title": "Bitoku",
+    "rating": "7.82497",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.74"
+  },
+  {
+    "title": "Monikers",
+    "rating": "7.7799",
+    "minPlayers": "4",
+    "maxPlayers": "16",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.10"
+  },
+  {
+    "title": "Bora Bora",
+    "rating": "7.55724",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.73"
+  },
+  {
+    "title": "Steam",
+    "rating": "7.54918",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "3.46"
+  },
+  {
+    "title": "Oath",
+    "rating": "7.78067",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "150",
+    "weight": "4.13"
+  },
+  {
+    "title": "Kingdomino",
+    "rating": "7.30282",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "15",
+    "maxPplayTime": "25",
+    "weight": "1.23"
+  },
+  {
+    "title": "Battle Line",
+    "rating": "7.41474",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "1.89"
+  },
+  {
+    "title": "Marvel United",
+    "rating": "7.5734",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "4",
+    "weight": "1.81"
+  },
+  {
+    "title": "Kemet: Blood and Sand",
+    "rating": "7.96378",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "3.19"
+  },
+  {
+    "title": "Star Realms: Frontiers",
+    "rating": "7.9336",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "45",
+    "weight": "1.87"
+  },
+  {
+    "title": "T.I.M.E Stories",
+    "rating": "7.37428",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.59"
+  },
+  {
+    "title": "Tiletum",
+    "rating": "7.90211",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "100",
+    "weight": "3.42"
+  },
+  {
+    "title": "Rococo",
+    "rating": "7.58203",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.09"
+  },
+  {
+    "title": "Forgotten Waters",
+    "rating": "7.8031",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "2.10"
+  },
+  {
+    "title": "Hive",
+    "rating": "7.31946",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "20",
+    "maxPplayTime": "",
+    "weight": "2.32"
+  },
+  {
+    "title": "Cryptid",
+    "rating": "7.43897",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "50",
+    "weight": "2.27"
+  },
+  {
+    "title": "Cthulhu Wars",
+    "rating": "7.85997",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.15"
+  },
+  {
+    "title": "Ethnos",
+    "rating": "7.45944",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.10"
+  },
+  {
+    "title": "Dice Throne: Season Two – Battle Chest",
+    "rating": "8.05855",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "2.14"
+  },
+  {
+    "title": "Dixit: Odyssey",
+    "rating": "7.3951",
+    "minPlayers": "3",
+    "maxPlayers": "12",
+    "minPplayTime": "30",
+    "maxPplayTime": "12",
+    "weight": "1.16"
+  },
+  {
+    "title": "So Clover!",
+    "rating": "7.5796",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.11"
+  },
+  {
+    "title": "Seasons",
+    "rating": "7.34657",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.78"
+  },
+  {
+    "title": "Skull King",
+    "rating": "7.53605",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "30",
+    "maxPplayTime": "8",
+    "weight": "1.71"
+  },
+  {
+    "title": "Aeon's End: The New Age",
+    "rating": "8.51168",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.94"
+  },
+  {
+    "title": "Arcadia Quest",
+    "rating": "7.6012",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.54"
+  },
+  {
+    "title": "Long Shot: The Dice Game",
+    "rating": "7.61063",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "25",
+    "maxPplayTime": "8",
+    "weight": "1.92"
+  },
+  {
+    "title": "The Manhattan Project: Energy Empire",
+    "rating": "7.74047",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.04"
+  },
+  {
+    "title": "Imperial",
+    "rating": "7.59647",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.56"
+  },
+  {
+    "title": "Turing Machine",
+    "rating": "7.67793",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "2.43"
+  },
+  {
+    "title": "Indonesia",
+    "rating": "7.87883",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "180",
+    "maxPplayTime": "240",
+    "weight": "3.98"
+  },
+  {
+    "title": "Navegador",
+    "rating": "7.53762",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.08"
+  },
+  {
+    "title": "Telestrations",
+    "rating": "7.37877",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "minPplayTime": "30",
+    "maxPplayTime": "8",
+    "weight": "1.07"
+  },
+  {
+    "title": "Onitama",
+    "rating": "7.34708",
+    "minPlayers": "2",
+    "maxPlayers": "20",
+    "minPplayTime": "15",
+    "maxPplayTime": "20",
+    "weight": "1.64"
+  },
+  {
+    "title": "Arkham Horror (Third Edition)",
+    "rating": "7.69197",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.35"
+  },
+  {
+    "title": "Distilled",
+    "rating": "7.82053",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "150",
+    "weight": "2.97"
+  },
+  {
+    "title": "Dungeon Petz",
+    "rating": "7.39515",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.62"
+  },
+  {
+    "title": "Lost Cities",
+    "rating": "7.24537",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "1.48"
+  },
+  {
+    "title": "Foundations of Rome",
+    "rating": "8.05172",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "1.95"
+  },
+  {
+    "title": "Power Grid Deluxe: Europe/North America",
+    "rating": "7.94923",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "6",
+    "weight": "3.19"
+  },
+  {
+    "title": "Sea Salt & Paper",
+    "rating": "7.48687",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.46"
+  },
+  {
+    "title": "Space Alert",
+    "rating": "7.38863",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "5",
+    "weight": "2.97"
+  },
+  {
+    "title": "Love Letter",
+    "rating": "7.51796",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "20",
+    "maxPplayTime": "6",
+    "weight": "1.12"
+  },
+  {
+    "title": "For Sale",
+    "rating": "7.25961",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.25"
+  },
+  {
+    "title": "Age of Empires III: The Age of Discovery",
+    "rating": "7.50893",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.12"
+  },
+  {
+    "title": "The King's Dilemma",
+    "rating": "7.74709",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.24"
+  },
+  {
+    "title": "Imperium: Classics",
+    "rating": "7.69896",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.59"
+  },
+  {
+    "title": "Cloudspire",
+    "rating": "8.18719",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "4.40"
+  },
+  {
+    "title": "Cat in the Box: Deluxe Edition",
+    "rating": "7.52296",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "2.04"
+  },
+  {
+    "title": "The Great Zimbabwe",
+    "rating": "7.83785",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "150",
+    "weight": "3.69"
+  },
+  {
+    "title": "The King Is Dead: Second Edition",
+    "rating": "7.63275",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.14"
+  },
+  {
+    "title": "Imperial Settlers",
+    "rating": "7.31249",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.77"
+  },
+  {
+    "title": "Survive: Escape from Atlantis!",
+    "rating": "7.31642",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "1.69"
+  },
+  {
+    "title": "Apiary",
+    "rating": "7.81839",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.96"
+  },
+  {
+    "title": "Acquire",
+    "rating": "7.34633",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "90",
+    "maxPplayTime": "6",
+    "weight": "2.49"
+  },
+  {
+    "title": "Nemo's War (Second Edition)",
+    "rating": "7.82483",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.28"
+  },
+  {
+    "title": "Glass Road",
+    "rating": "7.42432",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "80",
+    "weight": "2.95"
+  },
+  {
+    "title": "Love Letter",
+    "rating": "7.22478",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "1.18"
+  },
+  {
+    "title": "Fury of Dracula (Third/Fourth Edition)",
+    "rating": "7.419",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.28"
+  },
+  {
+    "title": "Tikal",
+    "rating": "7.32398",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.78"
+  },
+  {
+    "title": "Summoner Wars: Master Set",
+    "rating": "7.48039",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.52"
+  },
+  {
+    "title": "The Witcher: Old World",
+    "rating": "7.96157",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "150",
+    "weight": "2.86"
+  },
+  {
+    "title": "Century: Spice Road",
+    "rating": "7.30057",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.80"
+  },
+  {
+    "title": "Bunny Kingdom",
+    "rating": "7.42339",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.30"
+  },
+  {
+    "title": "Bruges",
+    "rating": "7.42647",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.75"
+  },
+  {
+    "title": "Imperial 2030",
+    "rating": "7.64514",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.51"
+  },
+  {
+    "title": "Destinies",
+    "rating": "7.70817",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "minPplayTime": "90",
+    "maxPplayTime": "150",
+    "weight": "1.92"
+  },
+  {
+    "title": "Awkward Guests: The Walton Case",
+    "rating": "7.5724",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "2.33"
+  },
+  {
+    "title": "Summoner Wars (Second Edition)",
+    "rating": "8.11226",
+    "minPlayers": "2",
+    "maxPlayers": "60",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.60"
+  },
+  {
+    "title": "Heaven & Ale",
+    "rating": "7.53398",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.18"
+  },
+  {
+    "title": "Tiny Epic Galaxies",
+    "rating": "7.32985",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.15"
+  },
+  {
+    "title": "Alien Frontiers",
+    "rating": "7.35376",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.57"
+  },
+  {
+    "title": "Runewars",
+    "rating": "7.60737",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "240",
+    "weight": "3.78"
+  },
+  {
+    "title": "Nusfjord",
+    "rating": "7.64501",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "20",
+    "maxPplayTime": "100",
+    "weight": "2.85"
+  },
+  {
+    "title": "Chinatown",
+    "rating": "7.43147",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.24"
+  },
+  {
+    "title": "Exit: The Game – The Abandoned Cabin",
+    "rating": "7.42013",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.54"
+  },
+  {
+    "title": "Wayfarers of the South Tigris",
+    "rating": "7.80897",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.80"
+  },
+  {
+    "title": "Project L",
+    "rating": "7.48089",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "1.55"
+  },
+  {
+    "title": "Small World",
+    "rating": "7.20451",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "40",
+    "maxPplayTime": "80",
+    "weight": "2.35"
+  },
+  {
+    "title": "Burgle Bros.",
+    "rating": "7.42794",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.31"
+  },
+  {
+    "title": "Above and Below",
+    "rating": "7.35961",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.52"
+  },
+  {
+    "title": "Merchants & Marauders",
+    "rating": "7.39499",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "4",
+    "weight": "3.25"
+  },
+  {
+    "title": "Raiders of Scythia",
+    "rating": "7.73522",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "80",
+    "weight": "2.76"
+  },
+  {
+    "title": "Arboretum",
+    "rating": "7.2821",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.13"
+  },
+  {
+    "title": "Flamecraft",
+    "rating": "7.41885",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.18"
+  },
+  {
+    "title": "Dead of Winter: The Long Night",
+    "rating": "7.52251",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.35"
+  },
+  {
+    "title": "Bonfire",
+    "rating": "7.63745",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "70",
+    "maxPplayTime": "100",
+    "weight": "3.63"
+  },
+  {
+    "title": "Neuroshima Hex! 3.0",
+    "rating": "7.38993",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.61"
+  },
+  {
+    "title": "Innovation",
+    "rating": "7.30233",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.77"
+  },
+  {
+    "title": "Antiquity",
+    "rating": "7.84178",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "4.32"
+  },
+  {
+    "title": "Bärenpark",
+    "rating": "7.29081",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.66"
+  },
+  {
+    "title": "Mission: Red Planet (Second/Third Edition)",
+    "rating": "7.40175",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.20"
+  },
+  {
+    "title": "Sid Meier's Civilization: The Board Game",
+    "rating": "7.37629",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "3.90"
+  },
+  {
+    "title": "Tekhenu: Obelisk of the Sun",
+    "rating": "7.69399",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "4.06"
+  },
+  {
+    "title": "Furnace",
+    "rating": "7.4103",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.32"
+  },
+  {
+    "title": "Letters from Whitechapel",
+    "rating": "7.34359",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "90",
+    "maxPplayTime": "6",
+    "weight": "2.65"
+  },
+  {
+    "title": "Dungeon Lords",
+    "rating": "7.35354",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.57"
+  },
+  {
+    "title": "Sidereal Confluence",
+    "rating": "7.78028",
+    "minPlayers": "4",
+    "maxPlayers": "9",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.54"
+  },
+  {
+    "title": "Dixit",
+    "rating": "7.19597",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "minPplayTime": "30",
+    "maxPplayTime": "8",
+    "weight": "1.20"
+  },
+  {
+    "title": "Gizmos",
+    "rating": "7.37598",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "50",
+    "weight": "2.02"
+  },
+  {
+    "title": "BattleLore: Second Edition",
+    "rating": "7.68018",
+    "minPlayers": "2",
+    "maxPlayers": "90",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.72"
+  },
+  {
+    "title": "Mindbug: First Contact",
+    "rating": "7.66911",
+    "minPlayers": "2",
+    "maxPlayers": "25",
+    "minPplayTime": "15",
+    "maxPplayTime": "25",
+    "weight": "1.95"
+  },
+  {
+    "title": "Harry Potter: Hogwarts Battle",
+    "rating": "7.3614",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.08"
+  },
+  {
+    "title": "Marvel United: X-Men",
+    "rating": "8.04695",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "40",
+    "maxPplayTime": "5",
+    "weight": "1.96"
+  },
+  {
+    "title": "Takenoko",
+    "rating": "7.21003",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "1.98"
+  },
+  {
+    "title": "Ginkgopolis",
+    "rating": "7.49242",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.91"
+  },
+  {
+    "title": "Mysterium",
+    "rating": "7.20968",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "42",
+    "maxPplayTime": "7",
+    "weight": "1.89"
+  },
+  {
+    "title": "Pax Renaissance: 2nd Edition",
+    "rating": "8.47854",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "4.61"
+  },
+  {
+    "title": "Dorfromantik: The Board Game",
+    "rating": "7.63959",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.67"
+  },
+  {
+    "title": "Ghost Stories",
+    "rating": "7.26544",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.90"
+  },
+  {
+    "title": "The Resistance",
+    "rating": "7.20775",
+    "minPlayers": "5",
+    "maxPlayers": "10",
+    "minPplayTime": "30",
+    "maxPplayTime": "10",
+    "weight": "1.59"
+  },
+  {
+    "title": "Lords of Hellas",
+    "rating": "7.64746",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.33"
+  },
+  {
+    "title": "Agricola: All Creatures Big and Small",
+    "rating": "7.33113",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.35"
+  },
+  {
+    "title": "San Juan",
+    "rating": "7.23173",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.29"
+  },
+  {
+    "title": "Abyss",
+    "rating": "7.3272",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.32"
+  },
+  {
+    "title": "51st State: Master Set",
+    "rating": "7.58837",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.90"
+  },
+  {
+    "title": "Maria",
+    "rating": "7.98676",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "minPplayTime": "210",
+    "maxPplayTime": "3",
+    "weight": "3.59"
+  },
+  {
+    "title": "Star Wars: Armada",
+    "rating": "7.81917",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "120",
+    "maxPplayTime": "",
+    "weight": "3.16"
+  },
+  {
+    "title": "Blood Bowl: Team Manager – The Card Game",
+    "rating": "7.39609",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.34"
+  },
+  {
+    "title": "Carpe Diem",
+    "rating": "7.50893",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "2.51"
+  },
+  {
+    "title": "Hannibal: Rome vs. Carthage",
+    "rating": "7.78137",
+    "minPlayers": "2",
+    "maxPlayers": "200",
+    "minPplayTime": "40",
+    "maxPplayTime": "200",
+    "weight": "3.45"
+  },
+  {
+    "title": "Air, Land & Sea",
+    "rating": "7.46268",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "20",
+    "maxPplayTime": "",
+    "weight": "1.69"
+  },
+  {
+    "title": "Dead Reckoning",
+    "rating": "8.18011",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "150",
+    "weight": "3.43"
+  },
+  {
+    "title": "Altiplano",
+    "rating": "7.4556",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.29"
+  },
+  {
+    "title": "Unmatched: Robin Hood vs. Bigfoot",
+    "rating": "7.91986",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "20",
+    "maxPplayTime": "",
+    "weight": "1.90"
+  },
+  {
+    "title": "Schotten Totten",
+    "rating": "7.35541",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "20",
+    "maxPplayTime": "",
+    "weight": "1.69"
+  },
+  {
+    "title": "Newton",
+    "rating": "7.52623",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.38"
+  },
+  {
+    "title": "Smartphone Inc.",
+    "rating": "7.57668",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.77"
+  },
+  {
+    "title": "Faraway",
+    "rating": "7.59432",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "15",
+    "maxPplayTime": "30",
+    "weight": "1.86"
+  },
+  {
+    "title": "Thunder Road: Vendetta",
+    "rating": "7.96171",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "1.93"
+  },
+  {
+    "title": "Fall of Rome",
+    "rating": "7.61913",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.46"
+  },
+  {
+    "title": "The Pillars of the Earth",
+    "rating": "7.26249",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "2.81"
+  },
+  {
+    "title": "Notre Dame",
+    "rating": "7.31327",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "2.74"
+  },
+  {
+    "title": "Frostpunk: The Board Game",
+    "rating": "8.22457",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "150",
+    "weight": "4.35"
+  },
+  {
+    "title": "The Guild of Merchant Explorers",
+    "rating": "7.68674",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.04"
+  },
+  {
+    "title": "Twice as Clever!",
+    "rating": "7.43197",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.28"
+  },
+  {
+    "title": "Mage Wars Arena",
+    "rating": "7.57521",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "90",
+    "maxPplayTime": "",
+    "weight": "3.68"
+  },
+  {
+    "title": "At the Gates of Loyang",
+    "rating": "7.35596",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.11"
+  },
+  {
+    "title": "Gùgōng",
+    "rating": "7.43499",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.07"
+  },
+  {
+    "title": "Expeditions",
+    "rating": "7.66305",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.04"
+  },
+  {
+    "title": "The Godfather: Corleone's Empire",
+    "rating": "7.52355",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.65"
+  },
+  {
+    "title": "The Lord of the Rings: The Card Game – Revised Core Set",
+    "rating": "8.46996",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "90",
+    "weight": "3.57"
+  },
+  {
+    "title": "Saint Petersburg",
+    "rating": "7.27108",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.44"
+  },
+  {
+    "title": "Arkham Horror",
+    "rating": "7.2386",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "3.58"
+  },
+  {
+    "title": "King of Tokyo",
+    "rating": "7.12825",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.49"
+  },
+  {
+    "title": "Blitzkrieg!: World War Two in 20 Minutes",
+    "rating": "7.58461",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "20",
+    "maxPplayTime": "45",
+    "weight": "1.93"
+  },
+  {
+    "title": "Marrakesh",
+    "rating": "8.14203",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.40"
+  },
+  {
+    "title": "Die Macher",
+    "rating": "7.59282",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "240",
+    "maxPplayTime": "5",
+    "weight": "4.31"
+  },
+  {
+    "title": "Downforce",
+    "rating": "7.28459",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "1.72"
+  },
+  {
+    "title": "Honey Buzz",
+    "rating": "7.55001",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.73"
+  },
+  {
+    "title": "Endeavor",
+    "rating": "7.37502",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "2.91"
+  },
+  {
+    "title": "In the Year of the Dragon",
+    "rating": "7.29838",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "75",
+    "maxPplayTime": "100",
+    "weight": "3.08"
+  },
+  {
+    "title": "Dice Forge",
+    "rating": "7.225",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "1.97"
+  },
+  {
+    "title": "Ticket to Ride: Märklin",
+    "rating": "7.4104",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.24"
+  },
+  {
+    "title": "Skull",
+    "rating": "7.18615",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "15",
+    "maxPplayTime": "45",
+    "weight": "1.12"
+  },
+  {
+    "title": "London (Second Edition)",
+    "rating": "7.49547",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.73"
+  },
+  {
+    "title": "Cartographers Heroes",
+    "rating": "7.75177",
+    "minPlayers": "1",
+    "maxPlayers": "100",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.01"
+  },
+  {
+    "title": "Tiny Towns",
+    "rating": "7.21781",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.05"
+  },
+  {
+    "title": "Chess",
+    "rating": "7.21651",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "2",
+    "maxPplayTime": "",
+    "weight": "3.66"
+  },
+  {
+    "title": "Akropolis",
+    "rating": "7.48262",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "30",
+    "weight": "1.78"
+  },
+  {
+    "title": "Boonlake",
+    "rating": "7.65103",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "80",
+    "maxPplayTime": "160",
+    "weight": "3.80"
+  },
+  {
+    "title": "Descent: Legends of the Dark",
+    "rating": "7.93741",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "2.69"
+  },
+  {
+    "title": "Cubitos",
+    "rating": "7.40467",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.17"
+  },
+  {
+    "title": "IKI",
+    "rating": "7.63221",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.05"
+  },
+  {
+    "title": "Azul: Stained Glass of Sintra",
+    "rating": "7.30245",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.01"
+  },
+  {
+    "title": "Bruxelles 1893",
+    "rating": "7.60351",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "50",
+    "maxPplayTime": "125",
+    "weight": "3.58"
+  },
+  {
+    "title": "Evolution: Climate",
+    "rating": "7.47677",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.73"
+  },
+  {
+    "title": "San Juan (Second Edition)",
+    "rating": "7.45017",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.08"
+  },
+  {
+    "title": "King of Tokyo: Dark Edition",
+    "rating": "7.67643",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.61"
+  },
+  {
+    "title": "Codenames: Pictures",
+    "rating": "7.18289",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "15",
+    "maxPplayTime": "8",
+    "weight": "1.24"
+  },
+  {
+    "title": "Mythic Battles: Pantheon",
+    "rating": "8.31491",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.05"
+  },
+  {
+    "title": "Here I Stand",
+    "rating": "7.87951",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "180",
+    "maxPplayTime": "360",
+    "weight": "4.19"
+  },
+  {
+    "title": "Spartacus: A Game of Blood and Treachery",
+    "rating": "7.46547",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "2.73"
+  },
+  {
+    "title": "Civilization",
+    "rating": "7.49417",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "360",
+    "maxPplayTime": "7",
+    "weight": "3.64"
+  },
+  {
+    "title": "Firefly: The Game",
+    "rating": "7.38706",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "2.95"
+  },
+  {
+    "title": "Biblios",
+    "rating": "7.19973",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "1.68"
+  },
+  {
+    "title": "Pan Am",
+    "rating": "7.5393",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.40"
+  },
+  {
+    "title": "Wavelength",
+    "rating": "7.25836",
+    "minPlayers": "2",
+    "maxPlayers": "12",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.11"
+  },
+  {
+    "title": "Sword & Sorcery",
+    "rating": "7.8874",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "4.11"
+  },
+  {
+    "title": "Santa Maria",
+    "rating": "7.47236",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "3.03"
+  },
+  {
+    "title": "Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures",
+    "rating": "7.57913",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.22"
+  },
+  {
+    "title": "Ready Set Bet",
+    "rating": "7.56082",
+    "minPlayers": "2",
+    "maxPlayers": "9",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "1.30"
+  },
+  {
+    "title": "Space Hulk (Third Edition)",
+    "rating": "7.53077",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "60",
+    "maxPplayTime": "",
+    "weight": "2.79"
+  },
+  {
+    "title": "Millennium Blades",
+    "rating": "7.66585",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "80",
+    "maxPplayTime": "120",
+    "weight": "3.65"
+  },
+  {
+    "title": "Imperium: Legends",
+    "rating": "7.85888",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "160",
+    "weight": "3.74"
+  },
+  {
+    "title": "Fresco",
+    "rating": "7.24884",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.63"
+  },
+  {
+    "title": "Keep the Heroes Out!",
+    "rating": "8.04289",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "4",
+    "weight": "2.48"
+  },
+  {
+    "title": "Sprawlopolis",
+    "rating": "7.30304",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "15",
+    "maxPplayTime": "20",
+    "weight": "1.82"
+  },
+  {
+    "title": "The Great Wall",
+    "rating": "7.84545",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.92"
+  },
+  {
+    "title": "Clash of Cultures",
+    "rating": "7.57105",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "240",
+    "weight": "3.60"
+  },
+  {
+    "title": "Imperial Struggle",
+    "rating": "8.24804",
+    "minPlayers": "2",
+    "maxPlayers": "240",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "4.06"
+  },
+  {
+    "title": "Stockpile",
+    "rating": "7.44364",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.12"
+  },
+  {
+    "title": "Macao",
+    "rating": "7.40435",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "50",
+    "maxPplayTime": "100",
+    "weight": "3.13"
+  },
+  {
+    "title": "Flash Point: Fire Rescue",
+    "rating": "7.15278",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "6",
+    "weight": "2.20"
+  },
+  {
+    "title": "Nippon",
+    "rating": "7.62713",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.77"
+  },
+  {
+    "title": "Thunderstone Quest",
+    "rating": "7.75784",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.84"
+  },
+  {
+    "title": "Commands & Colors: Napoleonics",
+    "rating": "8.05274",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "90",
+    "maxPplayTime": "",
+    "weight": "2.75"
+  },
+  {
+    "title": "Kingsburg",
+    "rating": "7.17221",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "2.42"
+  },
+  {
+    "title": "Mice and Mystics",
+    "rating": "7.22377",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.73"
+  },
+  {
+    "title": "Dune",
+    "rating": "7.58874",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "3.45"
+  },
+  {
+    "title": "Claustrophobia",
+    "rating": "7.46996",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "45",
+    "maxPplayTime": "",
+    "weight": "2.48"
+  },
+  {
+    "title": "Mandala",
+    "rating": "7.48828",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "20",
+    "maxPplayTime": "",
+    "weight": "1.78"
+  },
+  {
+    "title": "Woodcraft",
+    "rating": "7.64005",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.82"
+  },
+  {
+    "title": "The Manhattan Project",
+    "rating": "7.3175",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "5",
+    "weight": "2.96"
+  },
+  {
+    "title": "Advanced Squad Leader",
+    "rating": "8.00885",
+    "minPlayers": "2",
+    "maxPlayers": "480",
+    "minPplayTime": "120",
+    "maxPplayTime": "480",
+    "weight": "4.75"
+  },
+  {
+    "title": "PitchCar",
+    "rating": "7.26753",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "30",
+    "maxPplayTime": "8",
+    "weight": "1.12"
+  },
+  {
+    "title": "Lord of the Rings: The Confrontation",
+    "rating": "7.4941",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.19"
+  },
+  {
+    "title": "Black Orchestra",
+    "rating": "7.49983",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "2.43"
+  },
+  {
+    "title": "Reign of Cthulhu",
+    "rating": "7.36386",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "4",
+    "weight": "2.15"
+  },
+  {
+    "title": "The LOOP",
+    "rating": "7.73166",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.80"
+  },
+  {
+    "title": "Heroscape Master Set: Rise of the Valkyrie",
+    "rating": "7.4531",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.30"
+  },
+  {
+    "title": "Libertalia: Winds of Galecrest",
+    "rating": "7.47789",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.15"
+  },
+  {
+    "title": "Pipeline",
+    "rating": "7.58652",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.91"
+  },
+  {
+    "title": "Middara: Unintentional Malum – Act 1",
+    "rating": "8.57775",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "4.13"
+  },
+  {
+    "title": "Lancaster",
+    "rating": "7.38804",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "3.00"
+  },
+  {
+    "title": "Dawn of the Zeds (Third Edition)",
+    "rating": "8.16564",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.80"
+  },
+  {
+    "title": "Zombicide: 2nd Edition",
+    "rating": "7.97179",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.36"
+  },
+  {
+    "title": "Caper: Europe",
+    "rating": "7.68892",
+    "minPlayers": "2",
+    "maxPlayers": "35",
+    "minPplayTime": "25",
+    "maxPplayTime": "35",
+    "weight": "2.09"
+  },
+  {
+    "title": "A Few Acres of Snow",
+    "rating": "7.37277",
+    "minPlayers": "2",
+    "maxPlayers": "90",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.03"
+  },
+  {
+    "title": "Glen More",
+    "rating": "7.29609",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.67"
+  },
+  {
+    "title": "Quadropolis",
+    "rating": "7.22385",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.20"
+  },
+  {
+    "title": "Fire in the Lake",
+    "rating": "8.07054",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "4",
+    "weight": "4.14"
+  },
+  {
+    "title": "Black Rose Wars",
+    "rating": "7.95362",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.47"
+  },
+  {
+    "title": "Imperial Settlers: Empires of the North",
+    "rating": "7.41445",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.80"
+  },
+  {
+    "title": "Colt Express",
+    "rating": "7.09406",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "40",
+    "maxPplayTime": "6",
+    "weight": "1.84"
+  },
+  {
+    "title": "MicroMacro: Crime City – Full House",
+    "rating": "7.67415",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "15",
+    "maxPplayTime": "45",
+    "weight": "1.17"
+  },
+  {
+    "title": "No Thanks!",
+    "rating": "7.07874",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "minPplayTime": "20",
+    "maxPplayTime": "7",
+    "weight": "1.13"
+  },
+  {
+    "title": "Zombie Kidz Evolution",
+    "rating": "7.60855",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "15",
+    "maxPplayTime": "4",
+    "weight": "1.38"
+  },
+  {
+    "title": "Hadara",
+    "rating": "7.39689",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.21"
+  },
+  {
+    "title": "Citadels",
+    "rating": "7.24922",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.04"
+  },
+  {
+    "title": "Undaunted: North Africa",
+    "rating": "7.79371",
+    "minPlayers": "2",
+    "maxPlayers": "60",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.27"
+  },
+  {
+    "title": "Fantastic Factories",
+    "rating": "7.42996",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.23"
+  },
+  {
+    "title": "Stuffed Fables",
+    "rating": "7.44748",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.47"
+  },
+  {
+    "title": "Point Salad",
+    "rating": "7.13377",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "15",
+    "maxPplayTime": "30",
+    "weight": "1.16"
+  },
+  {
+    "title": "Unmatched: Little Red Riding Hood vs. Beowulf",
+    "rating": "8.11919",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "20",
+    "maxPplayTime": "",
+    "weight": "1.97"
+  },
+  {
+    "title": "Mystic Vale",
+    "rating": "7.24728",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.25"
+  },
+  {
+    "title": "Bohnanza",
+    "rating": "7.0645",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "45",
+    "maxPplayTime": "7",
+    "weight": "1.67"
+  },
+  {
+    "title": "High Society",
+    "rating": "7.17659",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "15",
+    "maxPplayTime": "30",
+    "weight": "1.49"
+  },
+  {
+    "title": "Unsettled",
+    "rating": "8.12118",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.24"
+  },
+  {
+    "title": "Citadels",
+    "rating": "7.05865",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "20",
+    "maxPplayTime": "60",
+    "weight": "2.05"
+  },
+  {
+    "title": "Canvas",
+    "rating": "7.23855",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "5",
+    "weight": "1.69"
+  },
+  {
+    "title": "Amerigo",
+    "rating": "7.43956",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.97"
+  },
+  {
+    "title": "Amun-Re",
+    "rating": "7.28833",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "3.03"
+  },
+  {
+    "title": "Lords of Vegas",
+    "rating": "7.35552",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.34"
+  },
+  {
+    "title": "Unmatched: Battle of Legends, Volume Two",
+    "rating": "8.26493",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "2.03"
+  },
+  {
+    "title": "BattleLore",
+    "rating": "7.349",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "60",
+    "maxPplayTime": "",
+    "weight": "2.77"
+  },
+  {
+    "title": "Shadows over Camelot",
+    "rating": "7.09984",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.57"
+  },
+  {
+    "title": "Pandemic: The Cure",
+    "rating": "7.24225",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "5",
+    "weight": "2.06"
+  },
+  {
+    "title": "Friday",
+    "rating": "7.11327",
+    "minPlayers": "1",
+    "maxPlayers": "",
+    "minPplayTime": "25",
+    "maxPplayTime": "",
+    "weight": "2.16"
+  },
+  {
+    "title": "Hanabi",
+    "rating": "7.03738",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "25",
+    "maxPplayTime": "5",
+    "weight": "1.69"
+  },
+  {
+    "title": "Junk Art",
+    "rating": "7.36412",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.21"
+  },
+  {
+    "title": "Potion Explosion",
+    "rating": "7.12588",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.78"
+  },
+  {
+    "title": "Trekking Through History",
+    "rating": "7.5933",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.74"
+  },
+  {
+    "title": "Exit: The Game – Dead Man on the Orient Express",
+    "rating": "7.54687",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.72"
+  },
+  {
+    "title": "Forbidden Desert",
+    "rating": "7.07309",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.04"
+  },
+  {
+    "title": "Sheriff of Nottingham",
+    "rating": "7.06371",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "1.66"
+  },
+  {
+    "title": "Betrayal Legacy",
+    "rating": "7.67704",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.89"
+  },
+  {
+    "title": "Massive Darkness 2: Hellscape",
+    "rating": "8.05476",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.73"
+  },
+  {
+    "title": "Deus",
+    "rating": "7.27337",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.82"
+  },
+  {
+    "title": "Mansions of Madness",
+    "rating": "7.25669",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.25"
+  },
+  {
+    "title": "Blood Bowl (Third Edition)",
+    "rating": "7.55533",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "180",
+    "maxPplayTime": "",
+    "weight": "2.98"
+  },
+  {
+    "title": "Descent: Journeys in the Dark",
+    "rating": "7.27767",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "3.34"
+  },
+  {
+    "title": "Oceans",
+    "rating": "7.43592",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.85"
+  },
+  {
+    "title": "Risk Legacy",
+    "rating": "7.35682",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.59"
+  },
+  {
+    "title": "Charterstone",
+    "rating": "7.20201",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "2.85"
+  },
+  {
+    "title": "Legacy of Yu",
+    "rating": "8.16804",
+    "minPlayers": "1",
+    "maxPlayers": "",
+    "minPplayTime": "60",
+    "maxPplayTime": "",
+    "weight": "2.90"
+  },
+  {
+    "title": "Feed the Kraken",
+    "rating": "7.83501",
+    "minPlayers": "5",
+    "maxPlayers": "11",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.12"
+  },
+  {
+    "title": "Through the Desert",
+    "rating": "7.13891",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.18"
+  },
+  {
+    "title": "Imhotep",
+    "rating": "7.14008",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "4",
+    "weight": "2.01"
+  },
+  {
+    "title": "Shadows of Brimstone: City of the Ancients",
+    "rating": "7.95518",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.38"
+  },
+  {
+    "title": "For Northwood! A Solo Trick-Taking Game",
+    "rating": "7.88918",
+    "minPlayers": "1",
+    "maxPlayers": "30",
+    "minPplayTime": "15",
+    "maxPplayTime": "30",
+    "weight": "1.83"
+  },
+  {
+    "title": "CATAN",
+    "rating": "7.09607",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.29"
+  },
+  {
+    "title": "The Vale of Eternity",
+    "rating": "7.60941",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.13"
+  },
+  {
+    "title": "Thurn and Taxis",
+    "rating": "7.09111",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.26"
+  },
+  {
+    "title": "Raptor",
+    "rating": "7.23667",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.06"
+  },
+  {
+    "title": "Aquatica",
+    "rating": "7.36961",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.31"
+  },
+  {
+    "title": "Railroad Ink: Deep Blue Edition",
+    "rating": "7.17375",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "20",
+    "maxPplayTime": "30",
+    "weight": "1.46"
+  },
+  {
+    "title": "Labyrinth: The War on Terror, 2001 – ?",
+    "rating": "7.57187",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "180",
+    "maxPplayTime": "2",
+    "weight": "3.67"
+  },
+  {
+    "title": "Argent: The Consortium",
+    "rating": "7.62135",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "3.77"
+  },
+  {
+    "title": "1846: The Race for the Midwest",
+    "rating": "7.90965",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "3.99"
+  },
+  {
+    "title": "Blood Bowl: Living Rulebook",
+    "rating": "7.84599",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "120",
+    "maxPplayTime": "",
+    "weight": "3.17"
+  },
+  {
+    "title": "Escape Plan",
+    "rating": "7.50731",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.67"
+  },
+  {
+    "title": "Port Royal",
+    "rating": "7.11525",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "20",
+    "maxPplayTime": "50",
+    "weight": "1.62"
+  },
+  {
+    "title": "QE",
+    "rating": "7.37028",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "1.52"
+  },
+  {
+    "title": "Alhambra",
+    "rating": "7.03124",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.10"
+  },
+  {
+    "title": "1775: Rebellion",
+    "rating": "7.63116",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.33"
+  },
+  {
+    "title": "Star Wars: X-Wing (Second Edition)",
+    "rating": "8.03841",
+    "minPlayers": "2",
+    "maxPlayers": "45",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "3.09"
+  },
+  {
+    "title": "Freedom: The Underground Railroad",
+    "rating": "7.58509",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.91"
+  },
+  {
+    "title": "Etherfields",
+    "rating": "7.91819",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "3.54"
+  },
+  {
+    "title": "Blackout: Hong Kong",
+    "rating": "7.42162",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "75",
+    "maxPplayTime": "150",
+    "weight": "3.47"
+  },
+  {
+    "title": "Small World Underground",
+    "rating": "7.22944",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "90",
+    "weight": "2.59"
+  },
+  {
+    "title": "Ingenious",
+    "rating": "7.10003",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.91"
+  },
+  {
+    "title": "Fleet: The Dice Game",
+    "rating": "7.64131",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.51"
+  },
+  {
+    "title": "TZAAR",
+    "rating": "7.65975",
+    "minPlayers": "2",
+    "maxPlayers": "60",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.49"
+  },
+  {
+    "title": "Nova Luna",
+    "rating": "7.27476",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.87"
+  },
+  {
+    "title": "Love Letter: Premium Edition",
+    "rating": "7.43599",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "20",
+    "maxPplayTime": "30",
+    "weight": "1.31"
+  },
+  {
+    "title": "Las Vegas",
+    "rating": "7.16982",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "5",
+    "weight": "1.18"
+  },
+  {
+    "title": "Unfathomable",
+    "rating": "7.5044",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "3.11"
+  },
+  {
+    "title": "First Class: All Aboard the Orient Express!",
+    "rating": "7.41738",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "80",
+    "weight": "2.79"
+  },
+  {
+    "title": "Splendor: Marvel",
+    "rating": "7.57263",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "1.80"
+  },
+  {
+    "title": "The Grizzled",
+    "rating": "7.12779",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "5",
+    "weight": "1.98"
+  },
+  {
+    "title": "Camel Up",
+    "rating": "7.03802",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "20",
+    "maxPplayTime": "30",
+    "weight": "1.50"
+  },
+  {
+    "title": "Runebound (Third Edition)",
+    "rating": "7.47334",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "2.71"
+  },
+  {
+    "title": "World Wonders",
+    "rating": "7.63089",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "50",
+    "maxPplayTime": "70",
+    "weight": "2.25"
+  },
+  {
+    "title": "Libertalia",
+    "rating": "7.11502",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.24"
+  },
+  {
+    "title": "Wabash Cannonball",
+    "rating": "7.24911",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.78"
+  },
+  {
+    "title": "RoboRally",
+    "rating": "7.05339",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "45",
+    "maxPplayTime": "120",
+    "weight": "2.43"
+  },
+  {
+    "title": "Discworld: Ankh-Morpork",
+    "rating": "7.25305",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.21"
+  },
+  {
+    "title": "Sushi Go!",
+    "rating": "6.99793",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "15",
+    "maxPplayTime": "5",
+    "weight": "1.16"
+  },
+  {
+    "title": "Dinosaur Island: Rawr 'n Write",
+    "rating": "7.70939",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.80"
+  },
+  {
+    "title": "London",
+    "rating": "7.32962",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.89"
+  },
+  {
+    "title": "Airlines Europe",
+    "rating": "7.29676",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "75",
+    "maxPplayTime": "5",
+    "weight": "2.43"
+  },
+  {
+    "title": "Valeria: Card Kingdoms",
+    "rating": "7.44555",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.98"
+  },
+  {
+    "title": "The Fox in the Forest",
+    "rating": "7.08586",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "1.58"
+  },
+  {
+    "title": "Legends of Andor",
+    "rating": "7.10497",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.76"
+  },
+  {
+    "title": "Skymines",
+    "rating": "7.98593",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "75",
+    "maxPplayTime": "150",
+    "weight": "3.87"
+  },
+  {
+    "title": "Elysium",
+    "rating": "7.19378",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.77"
+  },
+  {
+    "title": "Archipelago",
+    "rating": "7.27933",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "240",
+    "weight": "3.74"
+  },
+  {
+    "title": "Lacrimosa",
+    "rating": "7.67728",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.16"
+  },
+  {
+    "title": "Jamaica",
+    "rating": "7.06033",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.66"
+  },
+  {
+    "title": "Atlantis Rising (Second Edition)",
+    "rating": "7.5268",
+    "minPlayers": "1",
+    "maxPlayers": "7",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.45"
+  },
+  {
+    "title": "Last Will",
+    "rating": "7.1681",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "2.72"
+  },
+  {
+    "title": "Next Station: London",
+    "rating": "7.45584",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "25",
+    "maxPplayTime": "30",
+    "weight": "1.47"
+  },
+  {
+    "title": "Bus",
+    "rating": "7.63496",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "5",
+    "weight": "3.05"
+  },
+  {
+    "title": "Regicide",
+    "rating": "7.41949",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "10",
+    "maxPplayTime": "30",
+    "weight": "1.91"
+  },
+  {
+    "title": "Karuba",
+    "rating": "7.16771",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "40",
+    "weight": "1.43"
+  },
+  {
+    "title": "Kutná Hora: The City of Silver",
+    "rating": "7.79179",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.30"
+  },
+  {
+    "title": "Vikings",
+    "rating": "7.24129",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.54"
+  },
+  {
+    "title": "Euphoria: Build a Better Dystopia",
+    "rating": "7.17474",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "3.12"
+  },
+  {
+    "title": "One Night Ultimate Werewolf",
+    "rating": "7.04892",
+    "minPlayers": "3",
+    "maxPlayers": "10",
+    "minPplayTime": "10",
+    "maxPplayTime": "10",
+    "weight": "1.38"
+  },
+  {
+    "title": "Madeira",
+    "rating": "7.53872",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "4.31"
+  },
+  {
+    "title": "Galaxy Trucker (Second Edition)",
+    "rating": "7.46415",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "30",
+    "weight": "2.29"
+  },
+  {
+    "title": "StarCraft: The Board Game",
+    "rating": "7.35921",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "180",
+    "maxPplayTime": "240",
+    "weight": "3.86"
+  },
+  {
+    "title": "In the Hall of the Mountain King",
+    "rating": "7.58247",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "2.84"
+  },
+  {
+    "title": "Time's Up! Title Recall!",
+    "rating": "7.67714",
+    "minPlayers": "4",
+    "maxPlayers": "18",
+    "minPplayTime": "60",
+    "maxPplayTime": "18",
+    "weight": "1.18"
+  },
+  {
+    "title": "Taj Mahal",
+    "rating": "7.2648",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.93"
+  },
+  {
+    "title": "Sentinels of the Multiverse",
+    "rating": "7.13949",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.51"
+  },
+  {
+    "title": "DVONN",
+    "rating": "7.44653",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.66"
+  },
+  {
+    "title": "Tales of the Arabian Nights",
+    "rating": "7.16556",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "6",
+    "weight": "2.15"
+  },
+  {
+    "title": "Space Empires 4X",
+    "rating": "7.68582",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "240",
+    "weight": "3.35"
+  },
+  {
+    "title": "Pagan: Fate of Roanoke",
+    "rating": "8.02179",
+    "minPlayers": "2",
+    "maxPlayers": "60",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "3.03"
+  },
+  {
+    "title": "Aeon Trespass: Odyssey",
+    "rating": "9.03887",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "4.75"
+  },
+  {
+    "title": "Draftosaurus",
+    "rating": "7.09359",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "15",
+    "maxPplayTime": "5",
+    "weight": "1.25"
+  },
+  {
+    "title": "Broom Service",
+    "rating": "7.16259",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "75",
+    "weight": "2.41"
+  },
+  {
+    "title": "Carcassonne: Hunters and Gatherers",
+    "rating": "7.13256",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "35",
+    "maxPplayTime": "5",
+    "weight": "1.92"
+  },
+  {
+    "title": "Queendomino",
+    "rating": "7.15245",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "25",
+    "maxPplayTime": "4",
+    "weight": "2.06"
+  },
+  {
+    "title": "Pax Porfiriana",
+    "rating": "7.65554",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "6",
+    "weight": "3.64"
+  },
+  {
+    "title": "Baseball Highlights: 2045",
+    "rating": "7.5209",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.19"
+  },
+  {
+    "title": "Pathfinder Adventure Card Game: Rise of the Runelords – Base Set",
+    "rating": "7.16718",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.72"
+  },
+  {
+    "title": "Warp's Edge",
+    "rating": "7.70828",
+    "minPlayers": "1",
+    "maxPlayers": "45",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.41"
+  },
+  {
+    "title": "Nexus Ops",
+    "rating": "7.20987",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.23"
+  },
+  {
+    "title": "Star Trek: Ascendancy",
+    "rating": "7.81405",
+    "minPlayers": "3",
+    "maxPlayers": "",
+    "minPplayTime": "180",
+    "maxPplayTime": "",
+    "weight": "3.16"
+  },
+  {
+    "title": "Colosseum",
+    "rating": "7.20131",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.76"
+  },
+  {
+    "title": "Unmatched Adventures: Tales to Amaze",
+    "rating": "8.06927",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "60",
+    "weight": "2.24"
+  },
+  {
+    "title": "Egizia",
+    "rating": "7.38771",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.83"
+  },
+  {
+    "title": "Vinhos",
+    "rating": "7.46491",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "135",
+    "weight": "4.20"
+  },
+  {
+    "title": "Crusaders: Thy Will Be Done",
+    "rating": "7.47812",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.46"
+  },
+  {
+    "title": "Dice Throne: Season One",
+    "rating": "7.5095",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "2.08"
+  },
+  {
+    "title": "Roads & Boats",
+    "rating": "7.69852",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "240",
+    "maxPplayTime": "4",
+    "weight": "4.19"
+  },
+  {
+    "title": "BattleCON: Devastation of Indines",
+    "rating": "7.81907",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "3.11"
+  },
+  {
+    "title": "Triumph & Tragedy: European Balance of Power 1936-1945",
+    "rating": "8.15016",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "minPplayTime": "240",
+    "maxPplayTime": "360",
+    "weight": "3.42"
+  },
+  {
+    "title": "Unlock!: Heroic Adventures",
+    "rating": "7.61615",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.23"
+  },
+  {
+    "title": "Weather Machine",
+    "rating": "7.7862",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "4.60"
+  },
+  {
+    "title": "Detective: City of Angels",
+    "rating": "7.8878",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "150",
+    "weight": "2.36"
+  },
+  {
+    "title": "AquaSphere",
+    "rating": "7.25379",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "100",
+    "maxPplayTime": "4",
+    "weight": "3.68"
+  },
+  {
+    "title": "Dune: War for Arrakis",
+    "rating": "8.54054",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.59"
+  },
+  {
+    "title": "Horizons of Spirit Island",
+    "rating": "8.18668",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.54"
+  },
+  {
+    "title": "Tobago",
+    "rating": "7.0977",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.13"
+  },
+  {
+    "title": "Project: ELITE",
+    "rating": "7.9715",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.43"
+  },
+  {
+    "title": "Azul: Queen's Garden",
+    "rating": "7.47541",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.94"
+  },
+  {
+    "title": "Take 5",
+    "rating": "6.9712",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "minPplayTime": "45",
+    "maxPplayTime": "10",
+    "weight": "1.19"
+  },
+  {
+    "title": "My Father's Work",
+    "rating": "7.8756",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "4",
+    "weight": "3.14"
+  },
+  {
+    "title": "Creature Comforts",
+    "rating": "7.46591",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.36"
+  },
+  {
+    "title": "Paperback",
+    "rating": "7.11539",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.00"
+  },
+  {
+    "title": "The Colonists",
+    "rating": "7.54735",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "360",
+    "weight": "4.08"
+  },
+  {
+    "title": "Coup",
+    "rating": "6.98141",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "15",
+    "maxPplayTime": "6",
+    "weight": "1.41"
+  },
+  {
+    "title": "Cooper Island",
+    "rating": "7.56735",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "4.17"
+  },
+  {
+    "title": "Cuba Libre",
+    "rating": "7.67547",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "4",
+    "weight": "3.61"
+  },
+  {
+    "title": "Unmatched: Jurassic Park – InGen vs Raptors",
+    "rating": "8.12395",
+    "minPlayers": "2",
+    "maxPlayers": "40",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "2.00"
+  },
+  {
+    "title": "Struggle of Empires",
+    "rating": "7.5369",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "180",
+    "maxPplayTime": "240",
+    "weight": "3.59"
+  },
+  {
+    "title": "Shards of Infinity",
+    "rating": "7.46314",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.06"
+  },
+  {
+    "title": "Silver & Gold",
+    "rating": "7.193",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "1.17"
+  },
+  {
+    "title": "Automobile",
+    "rating": "7.32772",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "5",
+    "weight": "3.53"
+  },
+  {
+    "title": "HeroQuest",
+    "rating": "7.20752",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "2.14"
+  },
+  {
+    "title": "Knarr",
+    "rating": "7.48878",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "1.90"
+  },
+  {
+    "title": "Coloretto",
+    "rating": "6.98039",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "5",
+    "weight": "1.27"
+  },
+  {
+    "title": "Francis Drake",
+    "rating": "7.37771",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "2.92"
+  },
+  {
+    "title": "Whitehall Mystery",
+    "rating": "7.53443",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.12"
+  },
+  {
+    "title": "Carson City",
+    "rating": "7.21127",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "3.18"
+  },
+  {
+    "title": "Medici",
+    "rating": "7.17758",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.24"
+  },
+  {
+    "title": "The Battle of Five Armies",
+    "rating": "7.85571",
+    "minPlayers": "2",
+    "maxPlayers": "240",
+    "minPplayTime": "90",
+    "maxPplayTime": "240",
+    "weight": "3.59"
+  },
+  {
+    "title": "Bullet♥︎",
+    "rating": "7.63084",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "10",
+    "maxPplayTime": "20",
+    "weight": "2.12"
+  },
+  {
+    "title": "Thebes",
+    "rating": "7.12608",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.16"
+  },
+  {
+    "title": "Evolution",
+    "rating": "7.03333",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.43"
+  },
+  {
+    "title": "Zombicide",
+    "rating": "7.09584",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.53"
+  },
+  {
+    "title": "Zombicide: Green Horde",
+    "rating": "7.68952",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.47"
+  },
+  {
+    "title": "A Game of Thrones",
+    "rating": "7.16975",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "180",
+    "maxPplayTime": "5",
+    "weight": "3.45"
+  },
+  {
+    "title": "Conan",
+    "rating": "7.63373",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "2.77"
+  },
+  {
+    "title": "Gears of War: The Board Game",
+    "rating": "7.47212",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "2.88"
+  },
+  {
+    "title": "Hammer of the Scots",
+    "rating": "7.52595",
+    "minPlayers": "2",
+    "maxPlayers": "180",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "2.95"
+  },
+  {
+    "title": "Quantum",
+    "rating": "7.23456",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.47"
+  },
+  {
+    "title": "Golem",
+    "rating": "7.55272",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "4.00"
+  },
+  {
+    "title": "Star Wars: Destiny",
+    "rating": "7.43471",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.45"
+  },
+  {
+    "title": "War of the Ring: The Card Game",
+    "rating": "7.68937",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "2.95"
+  },
+  {
+    "title": "Andromeda's Edge",
+    "rating": "8.50307",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "80",
+    "maxPplayTime": "160",
+    "weight": "3.62"
+  },
+  {
+    "title": "A Game of Thrones: The Card Game (Second Edition)",
+    "rating": "7.49614",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.53"
+  },
+  {
+    "title": "Formula D",
+    "rating": "6.99353",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "minPplayTime": "60",
+    "maxPplayTime": "10",
+    "weight": "1.97"
+  },
+  {
+    "title": "Betrayal at House on the Hill",
+    "rating": "7.02148",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.40"
+  },
+  {
+    "title": "Blood Bowl (2016 Edition)",
+    "rating": "7.97043",
+    "minPlayers": "2",
+    "maxPlayers": "180",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "3.55"
+  },
+  {
+    "title": "The Downfall of Pompeii",
+    "rating": "7.15879",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "1.84"
+  },
+  {
+    "title": "Mare Nostrum: Empires",
+    "rating": "7.52612",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "2.98"
+  },
+  {
+    "title": "Unmatched Game System",
+    "rating": "8.24453",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "1.98"
+  },
+  {
+    "title": "A Fake Artist Goes to New York",
+    "rating": "7.13444",
+    "minPlayers": "5",
+    "maxPlayers": "10",
+    "minPplayTime": "20",
+    "maxPplayTime": "10",
+    "weight": "1.12"
+  },
+  {
+    "title": "First Rat",
+    "rating": "7.56542",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "75",
+    "weight": "2.28"
+  },
+  {
+    "title": "Photosynthesis",
+    "rating": "6.96429",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.26"
+  },
+  {
+    "title": "Yellow & Yangtze",
+    "rating": "7.8179",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.07"
+  },
+  {
+    "title": "Barcelona",
+    "rating": "7.7641",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.36"
+  },
+  {
+    "title": "Mosaic: A Story of Civilization",
+    "rating": "7.52379",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "120",
+    "maxPplayTime": "6",
+    "weight": "2.98"
+  },
+  {
+    "title": "Time's Up!",
+    "rating": "7.28194",
+    "minPlayers": "4",
+    "maxPlayers": "18",
+    "minPplayTime": "90",
+    "maxPplayTime": "18",
+    "weight": "1.20"
+  },
+  {
+    "title": "Telestrations: 12 Player Party Pack",
+    "rating": "7.73581",
+    "minPlayers": "4",
+    "maxPlayers": "12",
+    "minPplayTime": "30",
+    "maxPplayTime": "12",
+    "weight": "1.06"
+  },
+  {
+    "title": "Three Sisters",
+    "rating": "7.56659",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.69"
+  },
+  {
+    "title": "Taluva",
+    "rating": "7.14192",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.25"
+  },
+  {
+    "title": "Between Two Castles of Mad King Ludwig",
+    "rating": "7.23595",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.17"
+  },
+  {
+    "title": "Disney Villainous: Wicked to the Core",
+    "rating": "7.52391",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.38"
+  },
+  {
+    "title": "Scholars of the South Tigris",
+    "rating": "8.07078",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "4.07"
+  },
+  {
+    "title": "Beer & Bread",
+    "rating": "7.4324",
+    "minPlayers": "2",
+    "maxPlayers": "45",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.33"
+  },
+  {
+    "title": "Kingdom Builder",
+    "rating": "6.93984",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.06"
+  },
+  {
+    "title": "Lord of the Rings: The Confrontation",
+    "rating": "7.21757",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.17"
+  },
+  {
+    "title": "Cacao",
+    "rating": "7.07635",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "1.82"
+  },
+  {
+    "title": "Magic Maze",
+    "rating": "6.95109",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "15",
+    "maxPplayTime": "8",
+    "weight": "1.76"
+  },
+  {
+    "title": "Pax Renaissance",
+    "rating": "7.98372",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "4.47"
+  },
+  {
+    "title": "Living Forest",
+    "rating": "7.25939",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "4",
+    "weight": "2.21"
+  },
+  {
+    "title": "Elder Sign",
+    "rating": "6.97113",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "90",
+    "maxPplayTime": "8",
+    "weight": "2.34"
+  },
+  {
+    "title": "Brian Boru: High King of Ireland",
+    "rating": "7.50174",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.51"
+  },
+  {
+    "title": "Trains",
+    "rating": "7.12702",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.38"
+  },
+  {
+    "title": "Fort",
+    "rating": "7.09944",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "2.45"
+  },
+  {
+    "title": "Cribbage",
+    "rating": "7.09785",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.90"
+  },
+  {
+    "title": "Verdant",
+    "rating": "7.35202",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.07"
+  },
+  {
+    "title": "The Republic of Rome",
+    "rating": "7.53731",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "300",
+    "maxPplayTime": "6",
+    "weight": "4.37"
+  },
+  {
+    "title": "Bloodborne: The Board Game",
+    "rating": "7.77185",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "3.07"
+  },
+  {
+    "title": "One Night Ultimate Werewolf: Daybreak",
+    "rating": "7.29145",
+    "minPlayers": "3",
+    "maxPlayers": "10",
+    "minPplayTime": "10",
+    "maxPplayTime": "10",
+    "weight": "1.39"
+  },
+  {
+    "title": "Mr. Jack",
+    "rating": "6.97007",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.17"
+  },
+  {
+    "title": "Endeavor: Deep Sea",
+    "rating": "8.2851",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.83"
+  },
+  {
+    "title": "Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set",
+    "rating": "7.72675",
+    "minPlayers": "2",
+    "maxPlayers": "45",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.84"
+  },
+  {
+    "title": "Trails of Tucana",
+    "rating": "7.38172",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "15",
+    "maxPplayTime": "8",
+    "weight": "1.25"
+  },
+  {
+    "title": "Civilization: A New Dawn",
+    "rating": "7.25581",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.17"
+  },
+  {
+    "title": "Merv: The Heart of the Silk Road",
+    "rating": "7.49713",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.43"
+  },
+  {
+    "title": "Snowdonia",
+    "rating": "7.32441",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "90",
+    "weight": "3.00"
+  },
+  {
+    "title": "Dominant Species: Marine",
+    "rating": "7.93032",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "150",
+    "weight": "3.68"
+  },
+  {
+    "title": "Chronicles of Crime: 1400",
+    "rating": "7.70874",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "1.96"
+  },
+  {
+    "title": "High Frontier 4 All",
+    "rating": "8.42014",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "240",
+    "weight": "4.82"
+  },
+  {
+    "title": "Mille Fiori",
+    "rating": "7.42719",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.19"
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "rating": "7.58507",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.14"
+  },
+  {
+    "title": "Summoner Wars",
+    "rating": "7.23167",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.34"
+  },
+  {
+    "title": "Churchill",
+    "rating": "7.6725",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "minPplayTime": "60",
+    "maxPplayTime": "300",
+    "weight": "3.37"
+  },
+  {
+    "title": "Shakespeare",
+    "rating": "7.41295",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "90",
+    "weight": "2.99"
+  },
+  {
+    "title": "Feudum",
+    "rating": "7.59299",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "80",
+    "maxPplayTime": "180",
+    "weight": "4.58"
+  },
+  {
+    "title": "Railroad Ink Challenge: Lush Green Edition",
+    "rating": "7.61894",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "15",
+    "maxPplayTime": "30",
+    "weight": "2.13"
+  },
+  {
+    "title": "The Adventures of Robin Hood",
+    "rating": "7.47036",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "1.84"
+  },
+  {
+    "title": "AuZtralia",
+    "rating": "7.35364",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "2.88"
+  },
+  {
+    "title": "Twilight Inscription",
+    "rating": "7.47193",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.20"
+  },
+  {
+    "title": "Escape: The Curse of the Temple",
+    "rating": "6.9611",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "10",
+    "maxPplayTime": "5",
+    "weight": "1.48"
+  },
+  {
+    "title": "Sub Terra",
+    "rating": "7.3681",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.15"
+  },
+  {
+    "title": "Unlock!: Timeless Adventures",
+    "rating": "7.764",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.00"
+  },
+  {
+    "title": "Disney Villainous: Evil Comes Prepared",
+    "rating": "7.51626",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.33"
+  },
+  {
+    "title": "The Oracle of Delphi",
+    "rating": "7.29808",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "70",
+    "maxPplayTime": "100",
+    "weight": "3.03"
+  },
+  {
+    "title": "The Magnificent",
+    "rating": "7.50358",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.12"
+  },
+  {
+    "title": "Torres",
+    "rating": "7.08655",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.86"
+  },
+  {
+    "title": "KeyForge: Call of the Archons",
+    "rating": "7.09612",
+    "minPlayers": "2",
+    "maxPlayers": "45",
+    "minPplayTime": "15",
+    "maxPplayTime": "45",
+    "weight": "2.48"
+  },
+  {
+    "title": "D-Day at Omaha Beach",
+    "rating": "8.30603",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "120",
+    "maxPplayTime": "480",
+    "weight": "3.48"
+  },
+  {
+    "title": "Belfort",
+    "rating": "7.20994",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "5",
+    "weight": "3.04"
+  },
+  {
+    "title": "Cuba",
+    "rating": "7.12239",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "75",
+    "maxPplayTime": "120",
+    "weight": "3.26"
+  },
+  {
+    "title": "Mexica",
+    "rating": "7.24782",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.68"
+  },
+  {
+    "title": "Can't Stop",
+    "rating": "6.92149",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "1.15"
+  },
+  {
+    "title": "Ascension: Deckbuilding Game",
+    "rating": "7.03837",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.14"
+  },
+  {
+    "title": "Let's Go! To Japan",
+    "rating": "7.77434",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.12"
+  },
+  {
+    "title": "Treasure Island",
+    "rating": "7.21214",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.22"
+  },
+  {
+    "title": "Whistle Mountain",
+    "rating": "7.56337",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.99"
+  },
+  {
+    "title": "Yamataï",
+    "rating": "7.18582",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "80",
+    "weight": "2.96"
+  },
+  {
+    "title": "The Bloody Inn",
+    "rating": "7.06315",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.36"
+  },
+  {
+    "title": "Tokaido",
+    "rating": "6.92126",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "1.74"
+  },
+  {
+    "title": "Ticket to Ride: Rails & Sails",
+    "rating": "7.43089",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.48"
+  },
+  {
+    "title": "Luna",
+    "rating": "7.28795",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "100",
+    "weight": "3.32"
+  },
+  {
+    "title": "Ashes Reborn: Rise of the Phoenixborn",
+    "rating": "7.3024",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "120",
+    "weight": "2.90"
+  },
+  {
+    "title": "Dixit: Journey",
+    "rating": "7.39195",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.26"
+  },
+  {
+    "title": "Oh My Goods!",
+    "rating": "6.99534",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.30"
+  },
+  {
+    "title": "The Estates",
+    "rating": "7.42397",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.33"
+  },
+  {
+    "title": "Babylonia",
+    "rating": "7.65715",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.36"
+  },
+  {
+    "title": "Myrmes",
+    "rating": "7.2559",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.45"
+  },
+  {
+    "title": "Century: A New World",
+    "rating": "7.30717",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.12"
+  },
+  {
+    "title": "Love Letter: Batman",
+    "rating": "7.27032",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "1.19"
+  },
+  {
+    "title": "Onirim (Second Edition)",
+    "rating": "7.04382",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "15",
+    "maxPplayTime": "2",
+    "weight": "1.60"
+  },
+  {
+    "title": "Exit: The Game – The Pharaoh's Tomb",
+    "rating": "7.14547",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.76"
+  },
+  {
+    "title": "Carcassonne: The Castle",
+    "rating": "7.10335",
+    "minPlayers": "2",
+    "maxPlayers": "45",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.98"
+  },
+  {
+    "title": "Trismegistus: The Ultimate Formula",
+    "rating": "7.58298",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "4.18"
+  },
+  {
+    "title": "Arkwright",
+    "rating": "7.79756",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "240",
+    "weight": "4.59"
+  },
+  {
+    "title": "7 Wonders: Architects",
+    "rating": "7.04191",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "25",
+    "maxPplayTime": "7",
+    "weight": "1.35"
+  },
+  {
+    "title": "Tash-Kalar: Arena of Legends",
+    "rating": "7.15678",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.84"
+  },
+  {
+    "title": "Space Hulk: Death Angel – The Card Game",
+    "rating": "7.00232",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.41"
+  },
+  {
+    "title": "Wir sind das Volk!",
+    "rating": "7.78788",
+    "minPlayers": "2",
+    "maxPlayers": "150",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "3.74"
+  },
+  {
+    "title": "Fury of Dracula (Second Edition)",
+    "rating": "7.09143",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "180",
+    "maxPplayTime": "5",
+    "weight": "2.95"
+  },
+  {
+    "title": "Smash Up: Awesome Level 9000",
+    "rating": "7.21528",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "45",
+    "maxPplayTime": "",
+    "weight": "2.12"
+  },
+  {
+    "title": "Federation",
+    "rating": "7.89799",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.71"
+  },
+  {
+    "title": "The Shipwreck Arcana",
+    "rating": "7.42652",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "10",
+    "maxPplayTime": "30",
+    "weight": "2.24"
+  },
+  {
+    "title": "Shadows of Brimstone: Swamps of Death",
+    "rating": "8.03452",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "3.40"
+  },
+  {
+    "title": "Earth Reborn",
+    "rating": "7.60981",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "4",
+    "weight": "3.90"
+  },
+  {
+    "title": "Shikoku 1889",
+    "rating": "7.98623",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "180",
+    "maxPplayTime": "240",
+    "weight": "3.87"
+  },
+  {
+    "title": "Dragon Castle",
+    "rating": "7.11848",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.99"
+  },
+  {
+    "title": "Leaving Earth",
+    "rating": "7.73238",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "180",
+    "weight": "3.76"
+  },
+  {
+    "title": "Defenders of the Realm",
+    "rating": "7.27555",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "2.71"
+  },
+  {
+    "title": "Witchstone",
+    "rating": "7.5423",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.75"
+  },
+  {
+    "title": "Wits & Wagers",
+    "rating": "6.92627",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "minPplayTime": "25",
+    "maxPplayTime": "7",
+    "weight": "1.21"
+  },
+  {
+    "title": "Prêt-à-Porter",
+    "rating": "7.29898",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.56"
+  },
+  {
+    "title": "Diplomacy",
+    "rating": "7.03782",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "360",
+    "maxPplayTime": "7",
+    "weight": "3.33"
+  },
+  {
+    "title": "Trio",
+    "rating": "7.33034",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "15",
+    "maxPplayTime": "6",
+    "weight": "1.04"
+  },
+  {
+    "title": "BANG! The Dice Game",
+    "rating": "6.89023",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "minPplayTime": "15",
+    "maxPplayTime": "8",
+    "weight": "1.28"
+  },
+  {
+    "title": "Messina 1347",
+    "rating": "7.5586",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "140",
+    "weight": "3.59"
+  },
+  {
+    "title": "Steampunk Rally",
+    "rating": "7.15444",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.62"
+  },
+  {
+    "title": "City of the Big Shoulders",
+    "rating": "7.75019",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "4.02"
+  },
+  {
+    "title": "Maquis",
+    "rating": "7.45751",
+    "minPlayers": "1",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.19"
+  },
+  {
+    "title": "Empire of the Sun: The Pacific War 1941-1945",
+    "rating": "8.27162",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "360",
+    "maxPplayTime": "2",
+    "weight": "4.38"
+  },
+  {
+    "title": "Crystal Palace",
+    "rating": "7.51228",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "3.79"
+  },
+  {
+    "title": "My Little Scythe",
+    "rating": "7.22945",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.02"
+  },
+  {
+    "title": "Menara",
+    "rating": "7.4346",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "10",
+    "maxPplayTime": "60",
+    "weight": "1.59"
+  },
+  {
+    "title": "K2",
+    "rating": "7.00954",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.25"
+  },
+  {
+    "title": "Villagers",
+    "rating": "7.13956",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.21"
+  },
+  {
+    "title": "ZhanGuo",
+    "rating": "7.55075",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.82"
+  },
+  {
+    "title": "Coal Baron",
+    "rating": "7.27324",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "75",
+    "weight": "2.53"
+  },
+  {
+    "title": "The Networks",
+    "rating": "7.14541",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.60"
+  },
+  {
+    "title": "Specter Ops",
+    "rating": "7.16631",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.40"
+  },
+  {
+    "title": "Top Ten",
+    "rating": "7.46706",
+    "minPlayers": "4",
+    "maxPlayers": "9",
+    "minPplayTime": "30",
+    "maxPplayTime": "9",
+    "weight": "1.08"
+  },
+  {
+    "title": "Century: Eastern Wonders",
+    "rating": "7.11444",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.11"
+  },
+  {
+    "title": "Warhammer Quest: The Adventure Card Game",
+    "rating": "7.31329",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.72"
+  },
+  {
+    "title": "Between Two Cities",
+    "rating": "6.9772",
+    "minPlayers": "1",
+    "maxPlayers": "7",
+    "minPplayTime": "25",
+    "maxPplayTime": "7",
+    "weight": "1.82"
+  },
+  {
+    "title": "HITSTER",
+    "rating": "7.66087",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "minPplayTime": "30",
+    "maxPplayTime": "10",
+    "weight": "1.01"
+  },
+  {
+    "title": "Vegas Showdown",
+    "rating": "7.15095",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "75",
+    "maxPplayTime": "5",
+    "weight": "2.36"
+  },
+  {
+    "title": "New Frontiers",
+    "rating": "7.40891",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "2.96"
+  },
+  {
+    "title": "Advanced Squad Leader: Starter Kit #1",
+    "rating": "7.84734",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "120",
+    "maxPplayTime": "",
+    "weight": "3.76"
+  },
+  {
+    "title": "Dogs of War",
+    "rating": "7.52981",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "75",
+    "maxPplayTime": "5",
+    "weight": "2.64"
+  },
+  {
+    "title": "Caesar!: Seize Rome in 20 Minutes!",
+    "rating": "7.56227",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "20",
+    "maxPplayTime": "2",
+    "weight": "1.94"
+  },
+  {
+    "title": "Reef",
+    "rating": "7.01427",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.82"
+  },
+  {
+    "title": "New York Zoo",
+    "rating": "7.04973",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.94"
+  },
+  {
+    "title": "Yspahan",
+    "rating": "7.05662",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.37"
+  },
+  {
+    "title": "Detective Club",
+    "rating": "7.37682",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "minPplayTime": "45",
+    "maxPplayTime": "8",
+    "weight": "1.24"
+  },
+  {
+    "title": "CO₂: Second Chance",
+    "rating": "7.51609",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "4.10"
+  },
+  {
+    "title": "Perudo",
+    "rating": "6.91874",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "15",
+    "maxPplayTime": "30",
+    "weight": "1.25"
+  },
+  {
+    "title": "Middle-Earth Quest",
+    "rating": "7.39458",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "180",
+    "maxPplayTime": "4",
+    "weight": "3.55"
+  },
+  {
+    "title": "Eminent Domain",
+    "rating": "6.97908",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.51"
+  },
+  {
+    "title": "Blue Moon City",
+    "rating": "7.03685",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "50",
+    "weight": "2.29"
+  },
+  {
+    "title": "Rhino Hero: Super Battle",
+    "rating": "7.22525",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "10",
+    "maxPplayTime": "20",
+    "weight": "1.10"
+  },
+  {
+    "title": "Thunderstone Advance: Towers of Ruin",
+    "rating": "7.31908",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.75"
+  },
+  {
+    "title": "Tiny Epic Dungeons",
+    "rating": "7.48247",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "3.09"
+  },
+  {
+    "title": "Blokus",
+    "rating": "6.85952",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "1.74"
+  },
+  {
+    "title": "Roll Player Adventures",
+    "rating": "8.16979",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "150",
+    "weight": "2.38"
+  },
+  {
+    "title": "Khôra: Rise of an Empire",
+    "rating": "7.40211",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "75",
+    "maxPplayTime": "4",
+    "weight": "2.74"
+  },
+  {
+    "title": "Wallenstein",
+    "rating": "7.46004",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "150",
+    "maxPplayTime": "5",
+    "weight": "3.31"
+  },
+  {
+    "title": "Deep Sea Adventure",
+    "rating": "6.89886",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.19"
+  },
+  {
+    "title": "Moonrakers",
+    "rating": "7.71955",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.47"
+  },
+  {
+    "title": "Disney Villainous: The Worst Takes it All",
+    "rating": "6.94417",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "120",
+    "weight": "2.48"
+  },
+  {
+    "title": "Paris: La Cité de la Lumière",
+    "rating": "7.26896",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.03"
+  },
+  {
+    "title": "Shipyard",
+    "rating": "7.34555",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.50"
+  },
+  {
+    "title": "Finca",
+    "rating": "7.07216",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.08"
+  },
+  {
+    "title": "The Pursuit of Happiness",
+    "rating": "7.17537",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.56"
+  },
+  {
+    "title": "Wizard",
+    "rating": "6.97604",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "6",
+    "weight": "1.71"
+  },
+  {
+    "title": "Warhammer: Invasion",
+    "rating": "7.23716",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "45",
+    "maxPplayTime": "",
+    "weight": "2.74"
+  },
+  {
+    "title": "878 Vikings: Invasions of England",
+    "rating": "7.49422",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.62"
+  },
+  {
+    "title": "Kanagawa",
+    "rating": "7.02279",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.00"
+  },
+  {
+    "title": "La Granja: Deluxe Master Set",
+    "rating": "8.28501",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.49"
+  },
+  {
+    "title": "Ricochet Robots",
+    "rating": "7.02939",
+    "minPlayers": "1",
+    "maxPlayers": "99",
+    "minPplayTime": "30",
+    "maxPplayTime": "99",
+    "weight": "2.38"
+  },
+  {
+    "title": "Caverna: Cave vs Cave",
+    "rating": "7.08954",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "2.55"
+  },
+  {
+    "title": "Circadians: First Light",
+    "rating": "7.55464",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.39"
+  },
+  {
+    "title": "Crown of Emara",
+    "rating": "7.38243",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "3.06"
+  },
+  {
+    "title": "Blue Lagoon",
+    "rating": "7.20665",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.01"
+  },
+  {
+    "title": "Incan Gold",
+    "rating": "6.8383",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "minPplayTime": "30",
+    "maxPplayTime": "8",
+    "weight": "1.11"
+  },
+  {
+    "title": "Dice Hospital",
+    "rating": "7.11716",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "90",
+    "weight": "2.31"
+  },
+  {
+    "title": "Star Wars: Unlimited",
+    "rating": "8.12838",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "2.29"
+  },
+  {
+    "title": "Empires: Age of Discovery",
+    "rating": "7.83568",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "50",
+    "maxPplayTime": "150",
+    "weight": "3.33"
+  },
+  {
+    "title": "World Without End",
+    "rating": "7.23025",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "2.81"
+  },
+  {
+    "title": "Saint Petersburg (Second Edition)",
+    "rating": "7.46061",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.64"
+  },
+  {
+    "title": "Ex Libris",
+    "rating": "7.12453",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.53"
+  },
+  {
+    "title": "Tumblin' Dice",
+    "rating": "7.24561",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "20",
+    "maxPplayTime": "45",
+    "weight": "1.04"
+  },
+  {
+    "title": "Disney Villainous: Perfectly Wretched",
+    "rating": "7.60645",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.29"
+  },
+  {
+    "title": "Railroad Ink: Blazing Red Edition",
+    "rating": "7.0767",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "20",
+    "maxPplayTime": "30",
+    "weight": "1.47"
+  },
+  {
+    "title": "Super Motherload",
+    "rating": "7.33777",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "75",
+    "weight": "2.27"
+  },
+  {
+    "title": "Space Hulk",
+    "rating": "7.48618",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "45",
+    "maxPplayTime": "",
+    "weight": "2.50"
+  },
+  {
+    "title": "A War of Whispers",
+    "rating": "7.30387",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.57"
+  },
+  {
+    "title": "SpaceCorp: 2025-2300AD",
+    "rating": "7.6818",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "240",
+    "weight": "2.99"
+  },
+  {
+    "title": "Unfair",
+    "rating": "7.31224",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "50",
+    "maxPplayTime": "125",
+    "weight": "2.71"
+  },
+  {
+    "title": "Raccoon Tycoon",
+    "rating": "7.25668",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.16"
+  },
+  {
+    "title": "Exit: The Game – The Secret Lab",
+    "rating": "7.05445",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "150",
+    "weight": "2.53"
+  },
+  {
+    "title": "Cry Havoc",
+    "rating": "7.11387",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.29"
+  },
+  {
+    "title": "Clever Cubed",
+    "rating": "7.48331",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.40"
+  },
+  {
+    "title": "Cerebria: The Inside World",
+    "rating": "7.73898",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "4.34"
+  },
+  {
+    "title": "The 7th Citadel",
+    "rating": "8.56399",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "5",
+    "maxPplayTime": "1000",
+    "weight": "2.97"
+  },
+  {
+    "title": "Red7",
+    "rating": "6.865",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "5",
+    "maxPplayTime": "30",
+    "weight": "1.70"
+  },
+  {
+    "title": "Heroes of Land, Air & Sea",
+    "rating": "7.57427",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.28"
+  },
+  {
+    "title": "Azul: Master Chocolatier",
+    "rating": "7.88537",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.79"
+  },
+  {
+    "title": "Santiago",
+    "rating": "7.16002",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "75",
+    "maxPplayTime": "5",
+    "weight": "2.48"
+  },
+  {
+    "title": "Black Angel",
+    "rating": "7.22572",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.85"
+  },
+  {
+    "title": "Hannibal & Hamilcar",
+    "rating": "8.28026",
+    "minPlayers": "2",
+    "maxPlayers": "200",
+    "minPplayTime": "40",
+    "maxPplayTime": "200",
+    "weight": "3.91"
+  },
+  {
+    "title": "FUSE",
+    "rating": "6.99605",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "10",
+    "maxPplayTime": "5",
+    "weight": "1.65"
+  },
+  {
+    "title": "Gentes",
+    "rating": "7.39191",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "4",
+    "weight": "3.17"
+  },
+  {
+    "title": "Panamax",
+    "rating": "7.30518",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.76"
+  },
+  {
+    "title": "Not Alone",
+    "rating": "6.96818",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.99"
+  },
+  {
+    "title": "Unlock!: Epic Adventures",
+    "rating": "7.71027",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.16"
+  },
+  {
+    "title": "Tammany Hall",
+    "rating": "7.28313",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "2.78"
+  },
+  {
+    "title": "Vast: The Crystal Caverns",
+    "rating": "7.10371",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "75",
+    "maxPplayTime": "150",
+    "weight": "3.64"
+  },
+  {
+    "title": "Celestia",
+    "rating": "6.93859",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.32"
+  },
+  {
+    "title": "Dale of Merchants",
+    "rating": "7.16996",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.08"
+  },
+  {
+    "title": "Up Front",
+    "rating": "7.89501",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "60",
+    "maxPplayTime": "",
+    "weight": "3.42"
+  },
+  {
+    "title": "Zombicide Season 2: Prison Outbreak",
+    "rating": "7.34643",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.66"
+  },
+  {
+    "title": "Undaunted: Stalingrad",
+    "rating": "8.61622",
+    "minPlayers": "2",
+    "maxPlayers": "75",
+    "minPplayTime": "45",
+    "maxPplayTime": "75",
+    "weight": "2.63"
+  },
+  {
+    "title": "The Duke",
+    "rating": "7.31692",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.48"
+  },
+  {
+    "title": "Abomination: The Heir of Frankenstein",
+    "rating": "7.44828",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "180",
+    "weight": "3.25"
+  },
+  {
+    "title": "Merchants Cove",
+    "rating": "7.4516",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.72"
+  },
+  {
+    "title": "Squad Leader",
+    "rating": "7.55637",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "60",
+    "maxPplayTime": "",
+    "weight": "4.04"
+  },
+  {
+    "title": "Daybreak",
+    "rating": "7.66571",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.95"
+  },
+  {
+    "title": "King of New York",
+    "rating": "6.87232",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "40",
+    "maxPplayTime": "6",
+    "weight": "1.87"
+  },
+  {
+    "title": "Tang Garden",
+    "rating": "7.34862",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "60",
+    "weight": "2.61"
+  },
+  {
+    "title": "Jambo",
+    "rating": "6.99192",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "45",
+    "maxPplayTime": "",
+    "weight": "2.07"
+  },
+  {
+    "title": "Letter Jam",
+    "rating": "7.17402",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "6",
+    "weight": "1.98"
+  },
+  {
+    "title": "Fugitive",
+    "rating": "7.1478",
+    "minPlayers": "2",
+    "maxPlayers": "20",
+    "minPplayTime": "5",
+    "maxPplayTime": "20",
+    "weight": "1.66"
+  },
+  {
+    "title": "Clinic: Deluxe Edition",
+    "rating": "7.60465",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "3.99"
+  },
+  {
+    "title": "Dungeons & Dragons: The Legend of Drizzt Board Game",
+    "rating": "7.20518",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.58"
+  },
+  {
+    "title": "Pandemic: Rising Tide",
+    "rating": "7.5521",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "45",
+    "maxPplayTime": "5",
+    "weight": "2.53"
+  },
+  {
+    "title": "Parade",
+    "rating": "7.005",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "6",
+    "weight": "1.46"
+  },
+  {
+    "title": "Brazil: Imperial",
+    "rating": "7.57333",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "100",
+    "maxPplayTime": "4",
+    "weight": "3.00"
+  },
+  {
+    "title": "Morels",
+    "rating": "6.98628",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "1.74"
+  },
+  {
+    "title": "1989: Dawn of Freedom",
+    "rating": "7.76974",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "150",
+    "maxPplayTime": "",
+    "weight": "3.29"
+  },
+  {
+    "title": "Smart10",
+    "rating": "7.48834",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "minPplayTime": "20",
+    "maxPplayTime": "120",
+    "weight": "1.15"
+  },
+  {
+    "title": "Battle for Rokugan",
+    "rating": "7.4018",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.75"
+  },
+  {
+    "title": "Arcadia Quest: Inferno",
+    "rating": "7.85878",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.46"
+  },
+  {
+    "title": "Among the Stars",
+    "rating": "7.02374",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "2.24"
+  },
+  {
+    "title": "Lovecraft Letter",
+    "rating": "7.22172",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "5",
+    "maxPplayTime": "15",
+    "weight": "1.44"
+  },
+  {
+    "title": "Outlive",
+    "rating": "7.27827",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "40",
+    "maxPplayTime": "110",
+    "weight": "3.01"
+  },
+  {
+    "title": "Last Bastion",
+    "rating": "7.45247",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.59"
+  },
+  {
+    "title": "Unconscious Mind",
+    "rating": "8.04887",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.92"
+  },
+  {
+    "title": "Startups",
+    "rating": "7.19876",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "minPplayTime": "20",
+    "maxPplayTime": "7",
+    "weight": "1.57"
+  },
+  {
+    "title": "Lords of Xidit",
+    "rating": "7.08016",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "90",
+    "maxPplayTime": "5",
+    "weight": "2.64"
+  },
+  {
+    "title": "XCOM: The Board Game",
+    "rating": "6.99313",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.91"
+  },
+  {
+    "title": "Dinosaur World",
+    "rating": "7.35765",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.25"
+  },
+  {
+    "title": "Ohanami",
+    "rating": "7.28997",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "1.14"
+  },
+  {
+    "title": "ZÈRTZ",
+    "rating": "7.26645",
+    "minPlayers": "2",
+    "maxPlayers": "60",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.74"
+  },
+  {
+    "title": "Tribune: Primus Inter Pares",
+    "rating": "7.21158",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "2.87"
+  },
+  {
+    "title": "Friedrich",
+    "rating": "7.5594",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "minPplayTime": "210",
+    "maxPplayTime": "4",
+    "weight": "3.13"
+  },
+  {
+    "title": "Roam",
+    "rating": "7.29037",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.84"
+  },
+  {
+    "title": "Rurik: Dawn of Kiev",
+    "rating": "7.71112",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.09"
+  },
+  {
+    "title": "Vasco da Gama",
+    "rating": "7.2163",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.24"
+  },
+  {
+    "title": "Star Wars: The Card Game",
+    "rating": "7.17435",
+    "minPlayers": "2",
+    "maxPlayers": "60",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "2.97"
+  },
+  {
+    "title": "One Deck Dungeon",
+    "rating": "6.93769",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.08"
+  },
+  {
+    "title": "Qwixx",
+    "rating": "6.86998",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "15",
+    "maxPplayTime": "5",
+    "weight": "1.11"
+  },
+  {
+    "title": "The Lost Expedition",
+    "rating": "7.0417",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "30",
+    "maxPplayTime": "50",
+    "weight": "1.87"
+  },
+  {
+    "title": "Coffee Roaster",
+    "rating": "7.33391",
+    "minPlayers": "1",
+    "maxPlayers": "30",
+    "minPplayTime": "10",
+    "maxPplayTime": "30",
+    "weight": "2.12"
+  },
+  {
+    "title": "Reef Encounter",
+    "rating": "7.13188",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.68"
+  },
+  {
+    "title": "Scoville",
+    "rating": "7.11923",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.78"
+  },
+  {
+    "title": "Forbidden Island",
+    "rating": "6.7584",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "4",
+    "weight": "1.73"
+  },
+  {
+    "title": "Rhino Hero",
+    "rating": "6.90483",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "5",
+    "maxPplayTime": "15",
+    "weight": "1.02"
+  },
+  {
+    "title": "Spicy",
+    "rating": "7.15371",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "15",
+    "maxPplayTime": "20",
+    "weight": "1.34"
+  },
+  {
+    "title": "Star Trek: Fleet Captains",
+    "rating": "7.47153",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.06"
+  },
+  {
+    "title": "Spyrium",
+    "rating": "7.04137",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "75",
+    "maxPplayTime": "5",
+    "weight": "2.89"
+  },
+  {
+    "title": "Yedo",
+    "rating": "7.34768",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "120",
+    "maxPplayTime": "180",
+    "weight": "3.34"
+  },
+  {
+    "title": "Combat Commander: Pacific",
+    "rating": "8.10707",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "180",
+    "maxPplayTime": "",
+    "weight": "3.24"
+  },
+  {
+    "title": "Werewords",
+    "rating": "7.11811",
+    "minPlayers": "4",
+    "maxPlayers": "10",
+    "minPplayTime": "10",
+    "maxPplayTime": "10",
+    "weight": "1.16"
+  },
+  {
+    "title": "Mahjong",
+    "rating": "7.04774",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "2.57"
+  },
+  {
+    "title": "Imperial Steam",
+    "rating": "7.77961",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "4.20"
+  },
+  {
+    "title": "13 Days: The Cuban Missile Crisis, 1962",
+    "rating": "7.2064",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "45",
+    "maxPplayTime": "",
+    "weight": "2.33"
+  },
+  {
+    "title": "Zombicide: Invader",
+    "rating": "7.77977",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "6",
+    "weight": "2.35"
+  },
+  {
+    "title": "Inventions: Evolution of Ideas",
+    "rating": "8.11736",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "4.68"
+  },
+  {
+    "title": "Jekyll vs. Hyde",
+    "rating": "7.22461",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "1.85"
+  },
+  {
+    "title": "Codex Naturalis",
+    "rating": "7.22338",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "30",
+    "weight": "1.76"
+  },
+  {
+    "title": "Black Sonata",
+    "rating": "7.46003",
+    "minPlayers": "1",
+    "maxPlayers": "",
+    "minPplayTime": "30",
+    "maxPplayTime": "",
+    "weight": "2.09"
+  },
+  {
+    "title": "Washington's War",
+    "rating": "7.59863",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "90",
+    "maxPplayTime": "",
+    "weight": "2.88"
+  },
+  {
+    "title": "Ezra and Nehemiah",
+    "rating": "8.29",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "90",
+    "maxPplayTime": "120",
+    "weight": "3.79"
+  },
+  {
+    "title": "Container",
+    "rating": "7.16118",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "3.24"
+  },
+  {
+    "title": "Hyperborea",
+    "rating": "7.16787",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "50",
+    "maxPplayTime": "150",
+    "weight": "3.16"
+  },
+  {
+    "title": "Challengers!",
+    "rating": "7.10114",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "minPplayTime": "45",
+    "maxPplayTime": "8",
+    "weight": "1.79"
+  },
+  {
+    "title": "Roll Through the Ages: The Bronze Age",
+    "rating": "6.85091",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "1.78"
+  },
+  {
+    "title": "Luxor",
+    "rating": "7.19194",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "1.90"
+  },
+  {
+    "title": "Caylus 1303",
+    "rating": "7.43419",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.86"
+  },
+  {
+    "title": "Evergreen",
+    "rating": "7.45953",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "45",
+    "maxPplayTime": "4",
+    "weight": "2.14"
+  },
+  {
+    "title": "Nightmare Productions",
+    "rating": "7.0635",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.10"
+  },
+  {
+    "title": "Carcassonne: The City",
+    "rating": "7.20297",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "30",
+    "maxPplayTime": "45",
+    "weight": "2.26"
+  },
+  {
+    "title": "Thunderstone",
+    "rating": "6.90841",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "5",
+    "weight": "2.51"
+  },
+  {
+    "title": "Ca$h 'n Guns: Second Edition",
+    "rating": "6.82058",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "minPplayTime": "30",
+    "maxPplayTime": "8",
+    "weight": "1.25"
+  },
+  {
+    "title": "Catacombs (Third Edition)",
+    "rating": "7.46837",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.40"
+  },
+  {
+    "title": "Wandering Towers",
+    "rating": "7.39071",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.65"
+  },
+  {
+    "title": "Pictomania",
+    "rating": "7.26638",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "25",
+    "maxPplayTime": "6",
+    "weight": "1.53"
+  },
+  {
+    "title": "Evacuation",
+    "rating": "7.6235",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "3.99"
+  },
+  {
+    "title": "Last Night on Earth: The Zombie Game",
+    "rating": "6.90459",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "60",
+    "maxPplayTime": "90",
+    "weight": "2.30"
+  },
+  {
+    "title": "Stella: Dixit Universe",
+    "rating": "7.30547",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "minPplayTime": "30",
+    "maxPplayTime": "6",
+    "weight": "1.13"
+  },
+  {
+    "title": "Akrotiri",
+    "rating": "7.16668",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "45",
+    "maxPplayTime": "",
+    "weight": "2.64"
+  },
+  {
+    "title": "San Marco",
+    "rating": "7.17234",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "minPplayTime": "75",
+    "maxPplayTime": "4",
+    "weight": "2.68"
+  },
+  {
+    "title": "Formula Dé",
+    "rating": "6.99135",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "minPplayTime": "120",
+    "maxPplayTime": "10",
+    "weight": "1.95"
+  },
+  {
+    "title": "Red Rising",
+    "rating": "6.99024",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "minPplayTime": "45",
+    "maxPplayTime": "60",
+    "weight": "2.28"
+  },
+  {
+    "title": "Conflict of Heroes: Awakening the Bear! – Russia 1941-42",
+    "rating": "7.50095",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPplayTime": "120",
+    "maxPplayTime": "4",
+    "weight": "3.00"
+  },
+  {
+    "title": "Union Pacific",
+    "rating": "7.192",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minPplayTime": "90",
+    "maxPplayTime": "6",
+    "weight": "2.55"
+  },
+  {
+    "title": "Spyfall",
+    "rating": "6.76355",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "minPplayTime": "15",
+    "maxPplayTime": "8",
+    "weight": "1.24"
+  },
+  {
+    "title": "Palm Island",
+    "rating": "7.07231",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "minPplayTime": "15",
+    "maxPplayTime": "2",
+    "weight": "1.75"
+  },
+  {
+    "title": "Istanbul: The Dice Game",
+    "rating": "7.14709",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "40",
+    "weight": "1.80"
+  },
+  {
+    "title": "Napoleon's Triumph",
+    "rating": "7.99731",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "180",
+    "maxPplayTime": "",
+    "weight": "3.65"
+  },
+  {
+    "title": "The Mind",
+    "rating": "6.75023",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "20",
+    "maxPplayTime": "4",
+    "weight": "1.08"
+  },
+  {
+    "title": "Stationfall",
+    "rating": "7.75048",
+    "minPlayers": "1",
+    "maxPlayers": "9",
+    "minPplayTime": "60",
+    "maxPplayTime": "150",
+    "weight": "3.93"
+  },
+  {
+    "title": "Tajemnicze Domostwo",
+    "rating": "7.09927",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "minPplayTime": "30",
+    "maxPplayTime": "60",
+    "weight": "1.83"
+  },
+  {
+    "title": "Beast",
+    "rating": "7.52069",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "120",
+    "weight": "3.01"
+  },
+  {
+    "title": "Marvel Dice Masters: Avengers vs. X-Men",
+    "rating": "7.09222",
+    "minPlayers": "2",
+    "maxPlayers": "",
+    "minPplayTime": "60",
+    "maxPplayTime": "",
+    "weight": "2.30"
+  },
+  {
+    "title": "The Palaces of Carrara",
+    "rating": "7.12304",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "minPplayTime": "60",
+    "maxPplayTime": "4",
+    "weight": "2.59"
+  }
+]
