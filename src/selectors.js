@@ -4,9 +4,8 @@ import puppeteer from "puppeteer";
 const url = "https://boardgamegeek.com/browse/boardgame";
 export const getGamesList = async (pages) => {
   const gameList = [];
-
-  for (let i = 1; i <= pages; i++) {
-    try {
+  try {
+    for (let i = 1; i <= pages; i++) {
       const response = await fetch(url + `/page/${i}`);
       const html = await response.text();
 
@@ -19,10 +18,10 @@ export const getGamesList = async (pages) => {
         const link = "https://boardgamegeek.com" + $(el).attr("href");
         gameList.push({ title, link });
       });
-      return gameList;
-    } catch (error) {
-      console.log(error);
     }
+    return gameList;
+  } catch (error) {
+    console.log(error);
   }
 };
 
@@ -71,5 +70,6 @@ export const getGameInfo = async (gameUrl) => {
     };
   } catch (error) {
     console.log(error);
+    return false;
   }
 };

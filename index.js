@@ -17,7 +17,18 @@ try {
 
   for (let i = 0; i < gameList.length; i++) {
     console.log(i);
-    const gameInfo = await getGameInfo(gameList[i].link);
+    let gameInfo = false;
+    let attempts = 0;
+
+    while (gameInfo === false && attempts < 5) {
+      gameInfo = await getGameInfo(gameList[i].link);
+      attempts++;
+      if (gameInfo === false) {
+        // Wait a few seconds, also a good idea to swap proxy here*
+        await new Promise((resolve) => setTimeout(resolve, 3000));
+      }
+    }
+
     gameInfo.id = i;
     boardGameInfoListFile.write(JSON.stringify(gameInfo, null, 2) + "\n");
   }
