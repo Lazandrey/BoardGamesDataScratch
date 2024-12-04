@@ -1,10 +1,803 @@
 {
   "title": "Brass: Birmingham",
-  "rating": "8.58772",
+  "rating": "8.58775",
   "minPlayers": "2",
   "maxPlayers": "4",
   "minPplayTime": "60",
   "maxPplayTime": "120",
   "weight": "3.87",
+  "gameImageUrl": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__imagepage/img/-17KkOmxbTu2slJTabGrkO8ZW8s=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3490053.jpg",
   "id": 0
+}
+{
+  "title": "Pandemic Legacy: Season 1",
+  "rating": "8.52343",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "4",
+  "weight": "2.83",
+  "gameImageUrl": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__imagepage/img/qZybAu8uJ9_sZlU2A65DIF6Y2Zw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2452831.png",
+  "id": 1
+}
+{
+  "title": "Gloomhaven",
+  "rating": "8.57756",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "3.91",
+  "gameImageUrl": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__imagepage/img/pBaOL7vV402nn1I5dHsdSKsFHqA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2437871.jpg",
+  "id": 2
+}
+{
+  "title": "Ark Nova",
+  "rating": "8.5327",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "90",
+  "maxPplayTime": "150",
+  "weight": "3.77",
+  "gameImageUrl": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepage/img/qR1EvTSNPjDa-pNPGxU9HY2oKfs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6293412.jpg",
+  "id": 3
+}
+{
+  "title": "Twilight Imperium: Fourth Edition",
+  "rating": "8.58869",
+  "minPlayers": "3",
+  "maxPlayers": "6",
+  "minPplayTime": "240",
+  "maxPplayTime": "480",
+  "weight": "4.33",
+  "gameImageUrl": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__imagepage/img/0AK9hQgpcOOOLJh8IEZS3Nw57vE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3727516.jpg",
+  "id": 4
+}
+{
+  "title": "Dune: Imperium",
+  "rating": "8.43131",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "3.05",
+  "gameImageUrl": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__imagepage/img/BjM3LyahJ4IQ2ov5MkzkHatbmUc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5666597.jpg",
+  "id": 5
+}
+{
+  "title": "Terraforming Mars",
+  "rating": "8.35337",
+  "minPlayers": "1",
+  "maxPlayers": "5",
+  "minPplayTime": "120",
+  "maxPplayTime": "5",
+  "weight": "3.27",
+  "gameImageUrl": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__imagepage/img/FS1RE8Ue6nk1pNbPI3l-OSapQGc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3536616.jpg",
+  "id": 6
+}
+{
+  "title": "War of the Ring: Second Edition",
+  "rating": "8.54766",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "150",
+  "maxPplayTime": "180",
+  "weight": "4.22",
+  "gameImageUrl": "https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__imagepage/img/ZHAFxwwPAmpSqOjPb98GZV_x3rA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1215633.jpg",
+  "id": 7
+}
+{
+  "title": "Star Wars: Rebellion",
+  "rating": "8.41829",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "180",
+  "maxPplayTime": "240",
+  "weight": "3.74",
+  "gameImageUrl": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__imagepage/img/89ViRUkHkCJhvZA5fay7A9-46mY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4325841.jpg",
+  "id": 8
+}
+{
+  "title": "Gloomhaven: Jaws of the Lion",
+  "rating": "8.41727",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "120",
+  "weight": "3.64",
+  "gameImageUrl": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__imagepage/img/JUEcmeR5Cm5haFjoG5f_Uv8Zlws=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5055631.jpg",
+  "id": 9
+}
+{
+  "title": "Spirit Island",
+  "rating": "8.34253",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "90",
+  "maxPplayTime": "120",
+  "weight": "4.07",
+  "gameImageUrl": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__imagepage/img/py7KzNjXVOuVesFZB7LwqCbvALY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7013651.jpg",
+  "id": 10
+}
+{
+  "title": "Gaia Project",
+  "rating": "8.37004",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "150",
+  "weight": "4.40",
+  "gameImageUrl": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__imagepage/img/l0fffSKu6wscHhUNGWRh-0n-bqQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5375625.png",
+  "id": 11
+}
+{
+  "title": "Twilight Struggle",
+  "rating": "8.24335",
+  "minPlayers": "2",
+  "maxPlayers": "180",
+  "minPplayTime": "120",
+  "maxPplayTime": "180",
+  "weight": "3.61",
+  "gameImageUrl": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__imagepage/img/BWy9XaudHc_YnHCrzFc3cINAhvw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3530661.jpg",
+  "id": 12
+}
+{
+  "title": "Through the Ages: A New Story of Civilization",
+  "rating": "8.27678",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "120",
+  "maxPplayTime": "4",
+  "weight": "4.44",
+  "gameImageUrl": "https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__imagepage/img/kLV0WV3-tC7wGqSbzdBAAGjU3g4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2663291.jpg",
+  "id": 13
+}
+{
+  "title": "The Castles of Burgundy",
+  "rating": "8.14382",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "90",
+  "weight": "2.98",
+  "gameImageUrl": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__imagepage/img/hGdIQZbCqxvEyQ5s8ETrmypyIlA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1176894.jpg",
+  "id": 14
+}
+{
+  "title": "Great Western Trail",
+  "rating": "8.18167",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "75",
+  "maxPplayTime": "150",
+  "weight": "3.70",
+  "gameImageUrl": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__imagepage/img/TfWI6S9l7W06aO7b6apSfrEgVOo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4887376.jpg",
+  "id": 15
+}
+{
+  "title": "Scythe",
+  "rating": "8.13173",
+  "minPlayers": "1",
+  "maxPlayers": "5",
+  "minPplayTime": "90",
+  "maxPplayTime": "115",
+  "weight": "3.45",
+  "gameImageUrl": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__imagepage/img/zoz-t_z9nqqxL7OwQenbqp9PRl8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3163924.jpg",
+  "id": 16
+}
+{
+  "title": "Eclipse: Second Dawn for the Galaxy",
+  "rating": "8.4438",
+  "minPlayers": "2",
+  "maxPlayers": "6",
+  "minPplayTime": "60",
+  "maxPplayTime": "200",
+  "weight": "3.65",
+  "gameImageUrl": "https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__imagepage/img/Yb3tBDagMIaGMxDlhomv8pLc3Zk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5235277.jpg",
+  "id": 17
+}
+{
+  "title": "7 Wonders Duel",
+  "rating": "8.09292",
+  "minPlayers": "2",
+  "maxPlayers": "",
+  "minPplayTime": "30",
+  "maxPplayTime": "",
+  "weight": "2.22",
+  "gameImageUrl": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__imagepage/img/HdJ4d4O1P89V4UIhZnL3zoYnjow=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2576399.jpg",
+  "id": 18
+}
+{
+  "title": "Brass: Lancashire",
+  "rating": "8.19689",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "3.85",
+  "gameImageUrl": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__imagepage/img/ePDiN_lpjp0azcpJUx1tB-hHK_8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3469216.jpg",
+  "id": 19
+}
+{
+  "title": "Nemesis",
+  "rating": "8.26073",
+  "minPlayers": "1",
+  "maxPlayers": "5",
+  "minPplayTime": "90",
+  "maxPplayTime": "180",
+  "weight": "3.47",
+  "gameImageUrl": "https://cf.geekdo-images.com/4KSmlm59w0GwLIlgDnJDAQ__imagepage/img/Zb31zpGVlnDGPeHj75Xkye1KDNE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8211747.png",
+  "id": 20
+}
+{
+  "title": "Clank! Legacy: Acquisitions Incorporated",
+  "rating": "8.52865",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "90",
+  "maxPplayTime": "120",
+  "weight": "2.73",
+  "gameImageUrl": "https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__imagepage/img/VGyvF5ZeqCobLTYnSPLggU9lwqk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4885780.png",
+  "id": 21
+}
+{
+  "title": "Dune: Imperium – Uprising",
+  "rating": "8.73417",
+  "minPlayers": "1",
+  "maxPlayers": "6",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "3.45",
+  "gameImageUrl": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__imagepage/img/t2Ejppbb4Fm_Xq3g0NaPQy3UuxA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7664424.jpg",
+  "id": 22
+}
+{
+  "title": "A Feast for Odin",
+  "rating": "8.16893",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "120",
+  "weight": "3.86",
+  "gameImageUrl": "https://cf.geekdo-images.com/s9oGMCo1fcfV4Dk3EnqLZw__imagepage/img/s7VZBa0KUYuK83jsf3LxURg3bf4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3146943.png",
+  "id": 23
+}
+{
+  "title": "Concordia",
+  "rating": "8.08928",
+  "minPlayers": "2",
+  "maxPlayers": "5",
+  "minPplayTime": "100",
+  "maxPplayTime": "5",
+  "weight": "2.99",
+  "gameImageUrl": "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__imagepage/img/wLKrQnpz-Udm23hoDBRjyKgHEvo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3453267.jpg",
+  "id": 24
+}
+{
+  "title": "Frosthaven",
+  "rating": "8.80875",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "90",
+  "maxPplayTime": "180",
+  "weight": "4.38",
+  "gameImageUrl": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__imagepage/img/ADBJwwEXd9KYlPd9rPJ9B3hiZwo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5092291.png",
+  "id": 25
+}
+{
+  "title": "Great Western Trail: Second Edition",
+  "rating": "8.31728",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "75",
+  "maxPplayTime": "150",
+  "weight": "3.72",
+  "gameImageUrl": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__imagepage/img/g8tCQB77QOpOsRqLXiFcuW1ttWY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5988511.jpg",
+  "id": 26
+}
+{
+  "title": "Arkham Horror: The Card Game",
+  "rating": "8.1306",
+  "minPlayers": "1",
+  "maxPlayers": "2",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "3.55",
+  "gameImageUrl": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__imagepage/img/tgpLRvv6AIsClnegErNpAoieeMo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3122349.jpg",
+  "id": 27
+}
+{
+  "title": "Lost Ruins of Arnak",
+  "rating": "8.07201",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "120",
+  "weight": "2.92",
+  "gameImageUrl": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__imagepage/img/eImUMUWzDaUiHkUBzOL9EFdQY10=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5674958.jpg",
+  "id": 28
+}
+{
+  "title": "Root",
+  "rating": "8.07482",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "90",
+  "weight": "3.81",
+  "gameImageUrl": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__imagepage/img/ZF-dta5ffawuKAkAt2LB-QTIv5M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4254509.jpg",
+  "id": 29
+}
+{
+  "title": "Terra Mystica",
+  "rating": "8.0534",
+  "minPlayers": "2",
+  "maxPlayers": "5",
+  "minPplayTime": "60",
+  "maxPplayTime": "150",
+  "weight": "3.97",
+  "gameImageUrl": "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__imagepage/img/sgQ0huJCNuEtY8L98yF8B_7g6kY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5375624.jpg",
+  "id": 30
+}
+{
+  "title": "Wingspan",
+  "rating": "8.03437",
+  "minPlayers": "1",
+  "maxPlayers": "5",
+  "minPplayTime": "40",
+  "maxPplayTime": "70",
+  "weight": "2.47",
+  "gameImageUrl": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
+  "id": 31
+}
+{
+  "title": "Too Many Bones",
+  "rating": "8.33412",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "3.85",
+  "gameImageUrl": "https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__imagepage/img/Aslcx4yitREwV2Mb2sMe6pdmZN8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6624445.png",
+  "id": 32
+}
+{
+  "title": "Orléans",
+  "rating": "8.05767",
+  "minPlayers": "2",
+  "maxPlayers": "5",
+  "minPplayTime": "90",
+  "maxPplayTime": "5",
+  "weight": "3.03",
+  "gameImageUrl": "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__imagepage/img/bmtHK2zXBEUD-Wme7CvkPbL0goA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6228507.jpg",
+  "id": 33
+}
+{
+  "title": "Mage Knight Board Game",
+  "rating": "8.08393",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "240",
+  "weight": "4.37",
+  "gameImageUrl": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__imagepage/img/ROAuGFhL9abZxxzvXUCJJuvtkOk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1083380.jpg",
+  "id": 34
+}
+{
+  "title": "Barrage",
+  "rating": "8.16158",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "4.11",
+  "gameImageUrl": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__imagepage/img/HJ7WJ1Ax6lJnuZskVmiTGlzgjiE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4336469.png",
+  "id": 35
+}
+{
+  "title": "Everdell",
+  "rating": "8.01446",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "40",
+  "maxPplayTime": "80",
+  "weight": "2.82",
+  "gameImageUrl": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__imagepage/img/ijYTk6KGtxLRdIvLsGar13ZHs4c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3918905.png",
+  "id": 36
+}
+{
+  "title": "The Crew: Mission Deep Sea",
+  "rating": "8.12464",
+  "minPlayers": "2",
+  "maxPlayers": "5",
+  "minPplayTime": "20",
+  "maxPplayTime": "5",
+  "weight": "2.03",
+  "gameImageUrl": "https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__imagepage/img/1UBZCt5XUawit_g19GapkNgTcaM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5988903.jpg",
+  "id": 37
+}
+{
+  "title": "Viticulture Essential Edition",
+  "rating": "7.98171",
+  "minPlayers": "1",
+  "maxPlayers": "6",
+  "minPplayTime": "45",
+  "maxPplayTime": "90",
+  "weight": "2.89",
+  "gameImageUrl": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__imagepage/img/SWmCgt3LzSd05GPn6EW-Yr0m8aE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6500949.jpg",
+  "id": 38
+}
+{
+  "title": "Heat: Pedal to the Metal",
+  "rating": "8.04369",
+  "minPlayers": "1",
+  "maxPlayers": "6",
+  "minPplayTime": "30",
+  "maxPplayTime": "60",
+  "weight": "2.19",
+  "gameImageUrl": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__imagepage/img/k4uPIqjYuWBzofFiCyjSWN6KJow=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6940449.png",
+  "id": 39
+}
+{
+  "title": "Marvel Champions: The Card Game",
+  "rating": "8.11741",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "45",
+  "maxPplayTime": "90",
+  "weight": "2.94",
+  "gameImageUrl": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__imagepage/img/ifaw5M-Z2eEFir0ImkbNzxMbaOk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4900321.jpg",
+  "id": 40
+}
+{
+  "title": "Food Chain Magnate",
+  "rating": "8.05417",
+  "minPlayers": "2",
+  "maxPlayers": "5",
+  "minPplayTime": "120",
+  "maxPplayTime": "240",
+  "weight": "4.20",
+  "gameImageUrl": "https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__imagepage/img/H8df_iehwKM8SY2wVFWswoYwMvQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2649434.png",
+  "id": 41
+}
+{
+  "title": "Pax Pamir: Second Edition",
+  "rating": "8.17191",
+  "minPlayers": "1",
+  "maxPlayers": "5",
+  "minPplayTime": "45",
+  "maxPplayTime": "120",
+  "weight": "3.86",
+  "gameImageUrl": "https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__imagepage/img/uWTKD5k7H_uhdxey0JuU1cgzxqk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4503733.png",
+  "id": 42
+}
+{
+  "title": "Underwater Cities",
+  "rating": "8.054",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "80",
+  "maxPplayTime": "150",
+  "weight": "3.58",
+  "gameImageUrl": "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__imagepage/img/5TW1fCXBpYevj81yhYpwlXdqNIQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4837710.png",
+  "id": 43
+}
+{
+  "title": "Kanban EV",
+  "rating": "8.41393",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "180",
+  "weight": "4.30",
+  "gameImageUrl": "https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__imagepage/img/3ZAolgiUAzj8YUJhTOyrfGTB9Sg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4924232.jpg",
+  "id": 44
+}
+{
+  "title": "Crokinole",
+  "rating": "8.04306",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "4",
+  "weight": "1.23",
+  "gameImageUrl": "https://cf.geekdo-images.com/x4BbdwSDkjTnbQR_PfQHfg__imagepage/img/O0_GSkmMY9jsuCkWtpfPx6sLgYA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8207389.jpg",
+  "id": 45
+}
+{
+  "title": "Puerto Rico",
+  "rating": "7.91081",
+  "minPlayers": "3",
+  "maxPlayers": "5",
+  "minPplayTime": "90",
+  "maxPplayTime": "150",
+  "weight": "3.27",
+  "gameImageUrl": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__imagepage/img/r9fYYAHL6QdG7Sh2En5x8u7qFl4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic158548.jpg",
+  "id": 46
+}
+{
+  "title": "Sky Team",
+  "rating": "8.19484",
+  "minPlayers": "2",
+  "maxPlayers": "",
+  "minPplayTime": "15",
+  "maxPplayTime": "",
+  "weight": "2.05",
+  "gameImageUrl": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__imagepage/img/pGD_ZWkXcMk6JsTpFwwBVYk-sdk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7398904.jpg",
+  "id": 47
+}
+{
+  "title": "Cascadia",
+  "rating": "7.93438",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "45",
+  "weight": "1.85",
+  "gameImageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg",
+  "id": 48
+}
+{
+  "title": "Caverna: The Cave Farmers",
+  "rating": "7.94051",
+  "minPlayers": "1",
+  "maxPlayers": "7",
+  "minPplayTime": "30",
+  "maxPplayTime": "210",
+  "weight": "3.78",
+  "gameImageUrl": "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__imagepage/img/QrZD2aCLeNq45eoWUXay6-2bsM4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5598833.jpg",
+  "id": 49
+}
+{
+  "title": "Anachrony",
+  "rating": "8.06635",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "120",
+  "weight": "4.01",
+  "gameImageUrl": "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__imagepage/img/10P1tAr7m22pAu_jPBh1ARrRPhw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3499707.jpg",
+  "id": 50
+}
+{
+  "title": "On Mars",
+  "rating": "8.18168",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "90",
+  "maxPplayTime": "150",
+  "weight": "4.67",
+  "gameImageUrl": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__imagepage/img/4OmPtRY9MRwO3Z2WjU9Txp3PAFM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4357658.jpg",
+  "id": 51
+}
+{
+  "title": "Pandemic Legacy: Season 0",
+  "rating": "8.38828",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "45",
+  "maxPplayTime": "60",
+  "weight": "3.15",
+  "gameImageUrl": "https://cf.geekdo-images.com/y0x1zbkpUXjddzWWnhekYw__imagepage/img/hoEIDV5wMMAOTA6W0SBM1j2SIWc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5581457.jpg",
+  "id": 52
+}
+{
+  "title": "Blood Rage",
+  "rating": "7.91979",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "90",
+  "weight": "2.88",
+  "gameImageUrl": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__imagepage/img/nLp0poXg-Y6szkicHe7U2thnwhk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2439223.jpg",
+  "id": 53
+}
+{
+  "title": "Agricola",
+  "rating": "7.87074",
+  "minPlayers": "1",
+  "maxPlayers": "5",
+  "minPplayTime": "30",
+  "maxPplayTime": "150",
+  "weight": "3.64",
+  "gameImageUrl": "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__imagepage/img/TLgJgsf7CyGgl8RM2duUYOrE41E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic831744.jpg",
+  "id": 54
+}
+{
+  "title": "Sleeping Gods",
+  "rating": "8.18015",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "1200",
+  "weight": "3.24",
+  "gameImageUrl": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__imagepage/img/ToI3nXdkLu4Dy3J8o-yAWrdN4i8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5975244.png",
+  "id": 55
+}
+{
+  "title": "Hegemony: Lead Your Class to Victory",
+  "rating": "8.4529",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "90",
+  "maxPplayTime": "180",
+  "weight": "4.20",
+  "gameImageUrl": "https://cf.geekdo-images.com/DCLgJlrvB-EqL6A3WgQLMQ__imagepage/img/TPrT8nP5BQ-wEEiknfXh0a9b0PE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5715770.jpg",
+  "id": 56
+}
+{
+  "title": "Cthulhu: Death May Die",
+  "rating": "8.17875",
+  "minPlayers": "1",
+  "maxPlayers": "5",
+  "minPplayTime": "90",
+  "maxPplayTime": "120",
+  "weight": "2.48",
+  "gameImageUrl": "https://cf.geekdo-images.com/e8D09pfFsUsoX1D81EeoZg__imagepage/img/j93hKf8K82dzPXh6XrsEaUcY498=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4705171.jpg",
+  "id": 57
+}
+{
+  "title": "Oathsworn: Into the Deepwood",
+  "rating": "8.93634",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "90",
+  "weight": "3.66",
+  "gameImageUrl": "https://cf.geekdo-images.com/dezQ4YjF03lZVxTdI-UJYw__imagepage/img/k9KlpcnG4DPLQy8BrrrfHvBOiG4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6863204.jpg",
+  "id": 58
+}
+{
+  "title": "Lisboa",
+  "rating": "8.18364",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "4.58",
+  "gameImageUrl": "https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__imagepage/img/-wHBou6qlH_IWFlt9iWeNpVpX5k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3209553.jpg",
+  "id": 59
+}
+{
+  "title": "Pandemic Legacy: Season 2",
+  "rating": "8.02864",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "4",
+  "weight": "3.26",
+  "gameImageUrl": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__imagepage/img/26-dxthbnUHKC0FZ8nXwsNHILEE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3763549.jpg",
+  "id": 60
+}
+{
+  "title": "Mansions of Madness: Second Edition",
+  "rating": "7.93862",
+  "minPlayers": "1",
+  "maxPlayers": "5",
+  "minPplayTime": "120",
+  "maxPplayTime": "180",
+  "weight": "2.69",
+  "gameImageUrl": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__imagepage/img/nhF-Ys7IOrSMNwJVZSjMV2iVjXo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3118622.jpg",
+  "id": 61
+}
+{
+  "title": "Obsession",
+  "rating": "8.12324",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "90",
+  "weight": "3.09",
+  "gameImageUrl": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__imagepage/img/7ZYt4HM9o-Tsh8r96um0lbQNpZw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5902073.png",
+  "id": 62
+}
+{
+  "title": "Grand Austria Hotel",
+  "rating": "7.95136",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "3.21",
+  "gameImageUrl": "https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__imagepage/img/yaQ_9JDX1WfRslai-2yVjh_5d1E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6966955.jpg",
+  "id": 63
+}
+{
+  "title": "Tzolk'in: The Mayan Calendar",
+  "rating": "7.85555",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "90",
+  "maxPplayTime": "4",
+  "weight": "3.67",
+  "gameImageUrl": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__imagepage/img/YGFu0t1P9YhP0krC-_TRLGUKopg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4604439.jpg",
+  "id": 64
+}
+{
+  "title": "Power Grid",
+  "rating": "7.80701",
+  "minPlayers": "2",
+  "maxPlayers": "6",
+  "minPplayTime": "120",
+  "maxPplayTime": "6",
+  "weight": "3.25",
+  "gameImageUrl": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__imagepage/img/-tc_XLn5RXXaNfQHtlpf4BhyWPM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4459753.jpg",
+  "id": 65
+}
+{
+  "title": "Maracaibo",
+  "rating": "7.99837",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "120",
+  "weight": "3.92",
+  "gameImageUrl": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__imagepage/img/tU367UEHoA5m8Q1uagXkU9g_mk4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4917407.jpg",
+  "id": 66
+}
+{
+  "title": "The Quacks of Quedlinburg",
+  "rating": "7.81624",
+  "minPlayers": "2",
+  "maxPlayers": "4",
+  "minPplayTime": "45",
+  "maxPplayTime": "4",
+  "weight": "1.94",
+  "gameImageUrl": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__imagepage/img/H8gGY2t-R-NjaEA0bE5tnn5zIps=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6137509.png",
+  "id": 67
+}
+{
+  "title": "Clans of Caledonia",
+  "rating": "7.94012",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "30",
+  "maxPplayTime": "120",
+  "weight": "3.46",
+  "gameImageUrl": "https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__imagepage/img/ivHc67HBVg5spOFT4f7CwUbNLT4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3511783.png",
+  "id": 68
+}
+{
+  "title": "Le Havre",
+  "rating": "7.8458",
+  "minPlayers": "1",
+  "maxPlayers": "5",
+  "minPplayTime": "30",
+  "maxPplayTime": "150",
+  "weight": "3.71",
+  "gameImageUrl": "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__imagepage/img/jHMOi7QNOsO97jKnZMnNr8QyWUE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6091101.jpg",
+  "id": 69
+}
+{
+  "title": "The Gallerist",
+  "rating": "8.02043",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "60",
+  "maxPplayTime": "150",
+  "weight": "4.23",
+  "gameImageUrl": "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__imagepage/img/tvpPG8PqxEUKa0i_4mdl7uEnEOk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2503200.png",
+  "id": 70
+}
+{
+  "title": "Paladins of the West Kingdom",
+  "rating": "7.97329",
+  "minPlayers": "1",
+  "maxPlayers": "4",
+  "minPplayTime": "90",
+  "maxPplayTime": "120",
+  "weight": "3.72",
+  "gameImageUrl": "https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__imagepage/img/UvHsVD1MMB9E0G_KtVuEiZw9WZs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4462987.png",
+  "id": 71
+}
+{
+  "title": "Star Wars: Imperial Assault",
+  "rating": "7.96136",
+  "minPlayers": "2",
+  "maxPlayers": "5",
+  "minPplayTime": "60",
+  "maxPplayTime": "120",
+  "weight": "3.30",
+  "gameImageUrl": "https://cf.geekdo-images.com/pIQ_MXvaoARRp1loCHJuHg__imagepage/img/SoLstYUfNX5VI2VI8KXjy-ayA4I=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2247647.jpg",
+  "id": 72
 }
