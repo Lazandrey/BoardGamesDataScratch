@@ -1,14 +1,10 @@
 import fs from "fs";
-import fsasync from "fs/promises";
+
 import readline from "readline";
-import { parseString } from "xml2js";
+
 import { XMLParser } from "fast-xml-parser";
 
-import { getGamesList, getGameInfo } from "./src/selectors.js";
-import { title } from "process";
-
 const getGameInfoByIdFromAPI = async (id) => {
-  console.log(id);
   try {
     const response = await fetch(
       `https://boardgamegeek.com/xmlapi/game/${id}&stats=1`
@@ -19,9 +15,15 @@ const getGameInfoByIdFromAPI = async (id) => {
 
     const gameInfo = parser.parse(xml);
 
+    let gameTitle = "";
+    if (Array.isArray(gameInfo.boardgames.boardgame.name)) {
+      gameTitle = gameInfo.boardgames.boardgame.name[0];
+    } else {
+      gameTitle = gameInfo.boardgames.boardgame.name;
+    }
     const game = {
       id: id,
-      title: gameInfo.boardgames.boardgame.name[0],
+      title: gameTitle,
       rating: gameInfo.boardgames.boardgame.statistics.ratings.average,
       usersrated: gameInfo.boardgames.boardgame.statistics.ratings.usersrated,
       minPlayers: gameInfo.boardgames.boardgame.minplayers,
@@ -51,11 +53,12 @@ const getGamesIdsFromFile = async () => {
         flags: "w",
       }
     );
-
+    let i = 0;
     for await (const line of lineReader) {
+      i++;
       const id = line.replace("\ufeff", "");
       const gameInfo = await getGameInfoByIdFromAPI(id);
-      console.log(gameInfo);
+      console.log(i, "", gameInfo.title);
       boardGameInfoListFile.write(JSON.stringify(gameInfo, null, 2) + "\n");
     }
     boardGameInfoListFile.close();
