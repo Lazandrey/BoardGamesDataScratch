@@ -42,13 +42,13 @@ const getGameInfoByIdFromAPI = async (id) => {
   }
 };
 
-const getGamesIdsFromFile = async () => {
+const getGamesIdsFromFile = async (maxQty) => {
   try {
     const lineReader = readline.createInterface({
       input: fs.createReadStream("boardGamedIDs.csv", "utf-8"),
     });
     const boardGameInfoListFile = fs.createWriteStream(
-      "boardGameInfoListFromAPI.json",
+      `boardGameInfoListFromAPI${maxQty}.json`,
       {
         flags: "w",
       }
@@ -60,6 +60,9 @@ const getGamesIdsFromFile = async () => {
       const gameInfo = await getGameInfoByIdFromAPI(id);
       console.log(i, "", gameInfo.title);
       boardGameInfoListFile.write(JSON.stringify(gameInfo, null, 2) + "\n");
+      if (maxQty && i >= maxQty) {
+        break;
+      }
     }
     boardGameInfoListFile.close();
     return;
@@ -69,7 +72,7 @@ const getGamesIdsFromFile = async () => {
 };
 
 try {
-  getGamesIdsFromFile();
+  getGamesIdsFromFile(1000);
 } catch (error) {
   console.log(error);
 }
